@@ -1,0 +1,2 @@
+prefix and base prefix agree: True
+so this is not a virtual environment

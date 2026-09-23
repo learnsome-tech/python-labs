@@ -1,0 +1,3 @@
+Thing makes a sound
+Fido says woof
+Bit says woof, quietly

@@ -1,0 +1,7 @@
+>>> import sys
+>>> for place in sys.path: print(place)
+
+/Users/you/projects/hello        <- your program's folder
+/opt/homebrew/.../lib/python3.14
+/opt/homebrew/.../lib-dynload
+/opt/homebrew/lib/python3.14/site-packages

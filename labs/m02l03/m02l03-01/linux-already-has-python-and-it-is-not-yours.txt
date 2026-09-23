@@ -1,0 +1,2 @@
+python3 -V
+which python3

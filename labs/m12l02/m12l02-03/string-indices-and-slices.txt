@@ -1,0 +1,1 @@
+s[0]   s[-1]   s[start : pastEnd]   s[ : 3]   s[3 : ]   s[ : ]

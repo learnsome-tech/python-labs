@@ -1,0 +1,3 @@
+notes.txt
+photo.jpg
+first_program.py

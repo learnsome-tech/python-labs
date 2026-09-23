@@ -1,0 +1,3 @@
+  File "badindent.py", line 3
+    print('goodbye', name)
+IndentationError: unexpected indent

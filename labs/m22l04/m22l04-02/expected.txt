@@ -1,0 +1,5 @@
+$ ./wordcount.py sample.txt
+bash: ./wordcount.py: Permission denied
+$ chmod +x wordcount.py
+$ ./wordcount.py sample.txt
+sample.txt 7

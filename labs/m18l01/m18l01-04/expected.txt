@@ -1,0 +1,4 @@
+40
+50
+mathfunc
+__main__

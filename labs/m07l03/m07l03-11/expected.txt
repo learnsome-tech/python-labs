@@ -1,0 +1,5 @@
+2 <class 'int'>
+3.5 <class 'float'>
+[] <class 'list'>
+True <class 'bool'>
+None <class 'NoneType'>

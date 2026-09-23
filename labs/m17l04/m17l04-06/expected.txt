@@ -1,0 +1,30 @@
+(Pdb) n
+> runmaxdebug.py(2)running_max()
+-> best = 0
+(Pdb) n
+> runmaxdebug.py(3)running_max()
+-> for value in numbers:
+(Pdb) n
+> runmaxdebug.py(4)running_max()
+-> if value > best:
+(Pdb) p value
+-5
+(Pdb) p best
+0
+(Pdb) n
+> runmaxdebug.py(3)running_max()
+-> for value in numbers:
+(Pdb) n
+> runmaxdebug.py(4)running_max()
+-> if value > best:
+(Pdb) p value
+-2
+(Pdb) p best
+0
+(Pdb) w
+  runmaxdebug.py(9)<module>()
+-> print(running_max([-5, -2, -9]))
+> runmaxdebug.py(4)running_max()
+-> if value > best:
+(Pdb) q
+Quitting pdb will kill the process. Quit anyway? [y/n] y

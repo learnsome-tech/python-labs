@@ -1,0 +1,6 @@
+3
+ace queen
+ace
+king
+queen
+True

@@ -1,0 +1,8 @@
+if condition1 :
+    block1
+elif condition2 :
+    block2
+elif condition3 :
+    block3
+else:
+    blockWhenEveryTestIsFalse

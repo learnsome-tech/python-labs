@@ -1,0 +1,2 @@
+loading greetings, name is __main__
+Hello, Ada!

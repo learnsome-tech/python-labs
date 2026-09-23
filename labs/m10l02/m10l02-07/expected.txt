@@ -1,0 +1,19 @@
+Enter a specific example for animal: elephant
+Enter a specific example for food: mangoes
+Enter a specific example for city: Paris
+
+Once upon a time, deep in an ancient jungle,
+there lived a elephant.  This elephant
+liked to eat mangoes, but the jungle had
+very little mangoes to offer.  One day, an
+explorer found the elephant and discovered
+it liked mangoes.  The explorer took the
+elephant back to Paris, where it could
+eat as much mangoes as it wanted.  However,
+the elephant became homesick, so the
+explorer brought it back to the jungle,
+leaving a large supply of mangoes.
+
+The End
+
+Press Enter to end the program.

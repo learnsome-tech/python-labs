@@ -1,0 +1,9 @@
+$ python3 main.py
+high 19, average 15.0
+
+$ python3 -m weather.report
+high 19, average 15.0
+
+$ python3 -m weather
+No module named weather.__main__; 'weather' is a package and
+cannot be directly executed

@@ -1,0 +1,3 @@
+machine:   10110000 00000101
+assembly:  MOV AL, 5
+Python:    x = 5

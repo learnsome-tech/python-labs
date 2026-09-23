@@ -1,0 +1,6 @@
+>>> sys.path
+['',
+ '.../lib/python314.zip',
+ '.../lib/python3.14',
+ '.../lib/python3.14/lib-dynload',
+ '/opt/homebrew/lib/python3.14/site-packages']

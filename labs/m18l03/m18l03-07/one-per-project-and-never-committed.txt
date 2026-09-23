@@ -1,0 +1,6 @@
+(.venv) $ python -c 'import sys; print(sys.prefix != sys.base_prefix)'
+True
+
+# .gitignore
+.venv/
+__pycache__/

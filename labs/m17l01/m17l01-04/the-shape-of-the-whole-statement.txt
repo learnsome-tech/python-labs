@@ -1,0 +1,8 @@
+try:
+    the work that might fail
+except SomeError:
+    what to do about it
+else:
+    only if the try block finished
+finally:
+    always, whatever happened

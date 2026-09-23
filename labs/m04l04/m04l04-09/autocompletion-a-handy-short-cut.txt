@@ -1,0 +1,4 @@
+f                 typed, then Alt and slash
+first             what Idle completes it to
+fred              press Alt and slash again
+fi                completes to first only

@@ -1,0 +1,4 @@
+(.venv) $ pip install requests
+(.venv) $ pip list
+(.venv) $ pip show requests
+(.venv) $ pip uninstall requests

@@ -1,0 +1,4 @@
+==================== RESTART: /Users/you/python/hello.py ====================
+Hello from my own Python.
+It works.
+>>>

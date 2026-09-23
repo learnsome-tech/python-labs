@@ -1,0 +1,1 @@
+(dx, dy) = getShift(point1, point2)

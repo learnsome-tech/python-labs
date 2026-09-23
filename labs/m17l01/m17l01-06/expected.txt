@@ -1,0 +1,3 @@
+type is ValueError
+message is invalid literal for int() with base 10: '12x'
+args is ("invalid literal for int() with base 10: '12x'",)

@@ -1,0 +1,4 @@
+  File "fixMyCode.py", line 3
+    print('10 more is {}'.format(y)
+         ^
+SyntaxError: '(' was never closed

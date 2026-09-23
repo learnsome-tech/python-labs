@@ -1,0 +1,15 @@
+total is 18
+Traceback (most recent call last):
+  File "rowreport.py", line 13, in <module>
+    report('ana,7;bo,eleven')
+    ~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "rowreport.py", line 10, in report
+    print('total is', total_score(text))
+                      ~~~~~~~~~~~^^^^^^
+  File "rowreport.py", line 6, in total_score
+    rows = [parse_row(row) for row in text.split(';')]
+            ~~~~~~~~~^^^^^
+  File "rowreport.py", line 3, in parse_row
+    return (name, int(score))
+                  ~~~^^^^^^^
+ValueError: invalid literal for int() with base 10: 'eleven'

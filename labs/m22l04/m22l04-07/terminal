@@ -1,0 +1,5 @@
+git init
+git status --short
+git add .
+git commit -m "Word counter: first working version"
+git log --oneline

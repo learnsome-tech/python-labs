@@ -1,0 +1,13 @@
+[project]
+name = "wordcount"
+version = "0.1.0"
+description = "Count the words in a text file"
+requires-python = ">=3.10"
+dependencies = ["rich>=13.0"]
+
+[project.scripts]
+wordcount = "wordcount.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,15 @@
+This program is INTENDED to cause an execution error.
+Ok call to invminus4(6) next:
+0.5
+Bad call invminus4(4) next:
+Traceback (most recent call last):
+  File "showtraceback.py", line 14, in <module>
+    main()
+    ~~~~^^
+  File "showtraceback.py", line 11, in main
+    print(invminus4(4))
+          ~~~~~~~~~^^^
+  File "showtraceback.py", line 4, in invminus4
+    return 1.0/(x-4)
+           ~~~^^~~~~
+ZeroDivisionError: division by zero

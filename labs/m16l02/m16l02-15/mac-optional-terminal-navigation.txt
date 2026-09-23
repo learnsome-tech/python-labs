@@ -1,0 +1,5 @@
+anh@lucky13:~$ pwd
+/Users/anh
+anh@lucky13:~$ cd Desktop
+anh@lucky13:~/Desktop$ cd ..
+anh@lucky13:~$ python3 hello_you.py

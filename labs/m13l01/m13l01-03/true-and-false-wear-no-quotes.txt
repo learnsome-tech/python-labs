@@ -1,0 +1,3 @@
+True        # the Boolean value, type bool
+'True'      # a string of four letters, type str
+2 < 5       # an expression whose value is True

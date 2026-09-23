@@ -1,0 +1,8 @@
+C:\Users\you>py
+Python 3.14.7 (tags/v3.14.7:...) [MSC v.19xx 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 2 + 2
+4
+>>> exit()
+
+C:\Users\you>

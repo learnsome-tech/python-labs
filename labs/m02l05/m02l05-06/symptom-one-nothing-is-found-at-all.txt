@@ -1,0 +1,6 @@
+$ python3 --version
+zsh: command not found: python3
+
+C:\Users\you>python
+'python' is not recognized as an internal or external command,
+operable program or batch file.

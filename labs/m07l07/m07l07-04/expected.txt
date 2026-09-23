@@ -1,0 +1,6 @@
+print1 results:
+all on same line
+different line
+print2 has the same results:
+all on same line
+different line

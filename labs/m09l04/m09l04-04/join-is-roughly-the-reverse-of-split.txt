@@ -1,0 +1,4 @@
+sep.join(sequence)
+
+' '.join(seq)
+'//'.join(seq)

@@ -1,0 +1,4 @@
+C:\Users\anh>dir
+C:\Users\anh>cd Desktop
+C:\Users\anh\Desktop>cd ..
+C:\Users\anh>

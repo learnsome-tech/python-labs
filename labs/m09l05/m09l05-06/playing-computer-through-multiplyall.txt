@@ -1,0 +1,16 @@
+1 def   2 newList = list()   3 for   4 append   5 return   6 print
+
+Line  numList    multiplier  newList      num  comment
+1-5   -          -           -            -    definition
+6     -          -           -            -    call function
+1     [3, 1, 7]  5           -            -    set parameters
+2     [3, 1, 7]  5           []
+3     [3, 1, 7]  5           []           3    first in list
+4     [3, 1, 7]  5           [15]         3    append 3*5 = 15
+3     [3, 1, 7]  5           [15]         1    next in list
+4     [3, 1, 7]  5           [15, 5]      1    append 1*5 = 5
+3     [3, 1, 7]  5           [15, 5]      7    last in list
+4     [3, 1, 7]  5           [15, 5, 35]  7    append 7*5 = 35
+3     [3, 1, 7]  5           [15, 5, 35]  7    done with the loop
+5     [3, 1, 7]  5           [15, 5, 35]  7    return the list
+6     -          -           -            -    print [15, 5, 35]

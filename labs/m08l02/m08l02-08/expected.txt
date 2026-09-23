@@ -1,0 +1,5 @@
+23.457413902458498 to 5 places: 23.45741 to 2 places: 23.46
+x: 2.876543 y: 16.3591
+x long: 2.87654, x short: 2.877, y: 16.36.
+Same from locals dictionary:
+x long: 2.87654, x short: 2.877, y: 16.36.

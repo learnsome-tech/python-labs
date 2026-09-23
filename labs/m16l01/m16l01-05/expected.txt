@@ -1,0 +1,5 @@
+Enter a numberTraceback (most recent call last):
+  File "fixMyCode.py", line 2, in <module>
+    y = x + 10
+        ~~^~~~
+TypeError: can only concatenate str (not "int") to str

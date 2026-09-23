@@ -1,0 +1,12 @@
+opening the file
+closing the file
+7
+opening the file
+closing the file
+Traceback (most recent call last):
+  File "finallyalways.py", line 9, in <module>
+    print(load('seven'))
+          ~~~~^^^^^^^^^
+  File "finallyalways.py", line 4, in load
+    return int(text)
+ValueError: invalid literal for int() with base 10: 'seven'

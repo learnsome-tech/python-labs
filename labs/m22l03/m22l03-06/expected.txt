@@ -1,0 +1,5 @@
+report.py:1:8: F401 [*] `json` imported but unused
+report.py:7:5: F841 Local variable `count` is assigned to but never used
+report.py:8:28: F821 Undefined name `ags`
+Found 3 errors.
+[*] 1 fixable with the `--fix` option (1 hidden fix can be enabled with the `--unsafe-fixes` option).

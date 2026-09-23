@@ -1,0 +1,3 @@
+sudo dnf install python3 python3-pip python3-idle python3-tkinter
+
+sudo pacman -S python python-pip tk

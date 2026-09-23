@@ -1,0 +1,3 @@
+loop heading:
+    move all objects a small step in the proper direction
+    time.sleep(delay)

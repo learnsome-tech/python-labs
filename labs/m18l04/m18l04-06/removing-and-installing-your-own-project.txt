@@ -1,0 +1,10 @@
+(.venv) $ pip uninstall requests
+Found existing installation: requests 2.34.2
+Uninstalling requests-2.34.2:
+  Successfully uninstalled requests-2.34.2
+
+(.venv) $ ls .venv/lib/python3.14/site-packages
+certifi   certifi-2026.7.22.dist-info
+idna      idna-3.19.dist-info
+pip       pip-26.2.1.dist-info
+urllib3   urllib3-2.7.0.dist-info

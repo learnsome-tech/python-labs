@@ -1,0 +1,2 @@
+Enter a number10 more is 110
+Now we are done!)

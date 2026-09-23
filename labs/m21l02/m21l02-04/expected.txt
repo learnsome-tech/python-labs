@@ -1,0 +1,6 @@
+{
+  "ada": 91,
+  "grace": 88,
+  "alan": 95
+}
+88 <class 'dict'>

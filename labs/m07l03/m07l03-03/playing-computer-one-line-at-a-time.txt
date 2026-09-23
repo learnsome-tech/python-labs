@@ -1,0 +1,6 @@
+line  x   y    comment
+1     3   -    x gets 3, y is not yet defined
+2     3   5    5 = 3+2, using x from the line above
+3     3   10   10 = 2*5, using y from the line above
+4     7   10   7 = 10-3, using the latest value of y
+5     7   10   prints: 7 10

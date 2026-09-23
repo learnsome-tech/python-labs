@@ -1,0 +1,4 @@
+            python              python3            py
+Windows     your install        often a Store stub the launcher
+Mac         usually missing     your Python        not installed
+Linux       usually missing     the system Python  not installed

@@ -1,0 +1,4 @@
+return end1 <= val <= end2 or end2 <= val <= end1
+
+isBetween(point.getX(), pt1.getX(), pt2.getX())
+isBetween(point.getY(), pt1.getY(), pt2.getY())

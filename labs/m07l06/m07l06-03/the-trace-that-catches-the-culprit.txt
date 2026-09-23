@@ -1,0 +1,9 @@
+line  item        number  comment
+1     -           -       set items to the three fruit names
+3     'apples'    -       start with item as first in sequence
+4     'apples'    1
+5     'apples'    1       print: 1 apples
+6     'apples'    2       2 = 1+1
+3     'pears'     2       on to the next element in sequence
+4     'pears'     1
+5     'pears'     1       print: 1 pears   OOPS!

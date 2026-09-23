@@ -1,0 +1,10 @@
+$ which python3
+/opt/homebrew/bin/python3
+
+$ source .venv/bin/activate
+(.venv) $ which python3
+/Users/you/projects/hello/.venv/bin/python3
+
+(.venv) $ deactivate
+$ which python3
+/opt/homebrew/bin/python3

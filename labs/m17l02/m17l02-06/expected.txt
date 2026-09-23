@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "chainfrom.py", line 5, in port
+    return settings['port']
+           ~~~~~~~~^^^^^^^^
+KeyError: 'port'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "chainfrom.py", line 9, in <module>
+    print(port())
+          ~~~~^^
+  File "chainfrom.py", line 7, in port
+    raise RuntimeError('the settings file is incomplete') from err
+RuntimeError: the settings file is incomplete

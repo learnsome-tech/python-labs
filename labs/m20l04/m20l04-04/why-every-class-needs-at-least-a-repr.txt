@@ -1,0 +1,5 @@
+# no __repr__ at all:
+<__main__.Point object at 0x104e2f9d0>
+
+# with __repr__:
+Point(1, 2)

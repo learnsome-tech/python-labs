@@ -1,0 +1,4 @@
+/Applications/Python 3.14/Install Certificates.command
+
+Successfully installed certifi
+update complete

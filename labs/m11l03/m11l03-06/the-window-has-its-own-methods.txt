@@ -1,0 +1,7 @@
+win.setBackground(color)
+win.getMouse()
+win.checkMouse()
+win.getWidth()
+win.getHeight()
+win.setCoords(x1, y1, x2, y2)
+win.close()

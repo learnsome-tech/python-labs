@@ -1,0 +1,3 @@
+object.method()
+
+object.method(parameters)

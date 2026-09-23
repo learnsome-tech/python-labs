@@ -1,0 +1,5 @@
+if len(aList) > 0: 
+    doSomethingWith(aList) 
+
+if aList: 
+    doSomethingWith(aList)

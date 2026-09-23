@@ -1,0 +1,4 @@
+Ada knows 2 languages
+Alan knows 3 languages
+['Ada', 'Alan']
+True

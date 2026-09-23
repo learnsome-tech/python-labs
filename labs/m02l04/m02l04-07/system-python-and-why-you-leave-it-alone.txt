@@ -1,0 +1,6 @@
+$ python3 -m pip install requests
+error: externally-managed-environment
+
+× This environment is externally managed
+╰─> ... use a virtual environment:
+    python3 -m venv path/to/venv

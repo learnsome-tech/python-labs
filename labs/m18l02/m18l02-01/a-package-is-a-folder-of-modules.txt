@@ -1,0 +1,6 @@
+hello/
+    main.py
+    weather/
+        __init__.py
+        readings.py
+        report.py

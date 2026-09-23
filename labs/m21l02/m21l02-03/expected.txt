@@ -1,0 +1,4 @@
+{"when": [1, 2], "ok": true, "gone": null}
+{"7": "seven"}
+{'7': 'seven'}
+TypeError: Object of type set is not JSON serializable

@@ -1,0 +1,2 @@
+if isInside(pt, rect): 
+    poly.undraw()

@@ -1,0 +1,2 @@
+last folder searched: site-packages
+inside a virtual environment: False

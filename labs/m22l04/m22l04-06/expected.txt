@@ -1,0 +1,4 @@
+Successfully built wordcount
+Installing collected packages: pygments, mdurl, markdown-it-py, rich, wordcount
+Successfully installed markdown-it-py-4.2.0 mdurl-0.1.2 pygments-2.21.0 rich-15.0.0 wordcount-0.1.0
+sample.txt 7

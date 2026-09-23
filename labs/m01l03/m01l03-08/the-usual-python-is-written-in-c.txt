@@ -1,0 +1,3 @@
+CPython   the standard, written in C
+PyPy      faster on long running code
+MicroPython   for tiny devices

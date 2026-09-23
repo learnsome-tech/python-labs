@@ -1,0 +1,3 @@
+#           1111111111222222222233333333
+# 01234567890123456789012345678901234567
+ 'blah {animal} blah blah {food} ...'    # start of formatString

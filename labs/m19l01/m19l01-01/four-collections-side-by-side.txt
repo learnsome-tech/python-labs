@@ -1,0 +1,5 @@
+                 order      change  duplicates   x in it
+list   [1, 2]    position   yes     allowed      slow
+tuple  (1, 2)    position   no      allowed      slow
+set    {1, 2}    none       yes     impossible   fast
+dict   {'a': 1}  insertion  yes     no two keys  fast

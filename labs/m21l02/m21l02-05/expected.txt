@@ -1,0 +1,6 @@
+name,city,visits
+Ada,London,3
+Grace,"New York, NY",7
+['name', 'city', 'visits']
+['Ada', 'London', '3']
+['Grace', 'New York, NY', '7']

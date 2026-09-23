@@ -1,0 +1,5 @@
+1   python3              an interactive shell, one line at a time
+2   python3 hello.py     a saved file, from a terminal
+3   Run > Run Module     the same file, from inside IDLE
+
+    py hello.py          the Windows spelling of number two

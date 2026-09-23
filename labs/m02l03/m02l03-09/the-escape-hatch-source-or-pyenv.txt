@@ -1,0 +1,8 @@
+sudo apt install build-essential zlib1g-dev libssl-dev libffi-dev
+./configure --enable-optimizations
+make -j 4
+sudo make altinstall
+
+curl -fsSL https://pyenv.run | bash
+pyenv install 3.14.7
+pyenv global 3.14.7

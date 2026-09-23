@@ -1,0 +1,8 @@
+printLocations('This is a dish', 'is')
+2
+5
+11
+
+printLocations('This is a dish', 'h')
+1
+13

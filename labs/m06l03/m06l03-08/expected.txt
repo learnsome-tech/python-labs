@@ -1,0 +1,21 @@
+Happy Birthday to you!
+Happy Birthday to you!
+Happy Birthday, dear Emily.
+Happy Birthday to you!
+Happy Birthday to you!
+Happy Birthday to you!
+Happy Birthday, dear Andre.
+Happy Birthday to you!
+Happy Birthday to you!
+Happy Birthday to you!
+Traceback (most recent call last):
+  File "birthdayBad.py", line 15, in <module>
+    main()
+    ~~~~^^
+  File "birthdayBad.py", line 13, in main
+    happyBirthday(2)
+    ~~~~~~~~~~~~~^^^
+  File "birthdayBad.py", line 6, in happyBirthday
+    print("Happy Birthday, dear " + person + ".")
+          ~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~
+TypeError: can only concatenate str (not "int") to str

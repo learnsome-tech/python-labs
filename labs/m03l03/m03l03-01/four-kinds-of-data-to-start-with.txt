@@ -1,0 +1,4 @@
+3    6    -7    1.25
+'hello'    'The answer is: '
+[1, 2, 3, 4]    ['yes', 'no', 'maybe']
+None

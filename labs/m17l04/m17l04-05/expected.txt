@@ -1,0 +1,18 @@
+> runmaxdebug.py(8)<module>()
+-> breakpoint()
+(Pdb) l
+  3         for value in numbers:
+  4             if value > best:
+  5                 best = value
+  6         return best
+  7
+  8  -> breakpoint()
+  9     print(running_max([-5, -2, -9]))
+[EOF]
+(Pdb) n
+> runmaxdebug.py(9)<module>()
+-> print(running_max([-5, -2, -9]))
+(Pdb) s
+--Call--
+> runmaxdebug.py(1)running_max()
+-> def running_max(numbers):

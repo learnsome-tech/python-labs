@@ -1,0 +1,4 @@
+\\    a single backslash character
+\n    newline
+\'    a single quote character
+\"    a double quote character

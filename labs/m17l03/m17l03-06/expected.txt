@@ -1,0 +1,4 @@
+  File "badsyntax.py", line 2
+    for score in scores
+                       ^
+SyntaxError: expected ':'

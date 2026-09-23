@@ -1,0 +1,2 @@
+In function f
+When does this print?

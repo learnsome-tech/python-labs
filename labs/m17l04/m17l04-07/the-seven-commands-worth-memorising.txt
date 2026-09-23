@@ -1,0 +1,7 @@
+l   list the source around here
+n   next line, stepping over calls
+s   step into the call on this line
+c   continue until the next breakpoint
+p   print the value of an expression
+w   where am I: the stack of frames
+q   quit the debugger and the program

@@ -1,0 +1,17 @@
+(.venv) $ pip list
+Package            Version
+------------------ ---------
+certifi            2026.7.22
+charset-normalizer 3.5.1
+idna               3.19
+pip                26.2.1
+requests           2.34.2
+urllib3            2.7.0
+
+(.venv) $ pip show requests
+Name: requests
+Version: 2.34.2
+Summary: Python HTTP for Humans.
+Location: /Users/you/projects/hello/.venv/lib/python3.14/site-packages
+Requires: certifi, charset-normalizer, idna, urllib3
+Required-by:

@@ -1,0 +1,6 @@
+Optional Features
+  [x] Documentation
+  [x] pip
+  [x] tcl/tk and IDLE
+  [x] Python test suite
+  [x] py launcher   [ ] for all users (requires admin privileges)

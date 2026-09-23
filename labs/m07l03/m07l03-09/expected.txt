@@ -1,0 +1,12 @@
+1
+Yes
+Done counting.
+2
+YesYes
+Done counting.
+3
+YesYesYes
+Done counting.
+red
+blue
+green

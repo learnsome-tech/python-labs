@@ -1,0 +1,2 @@
+[ ] Use admin privileges when installing py.exe
+[ ] Add python.exe to PATH

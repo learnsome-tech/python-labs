@@ -1,0 +1,3 @@
+initialize the accumulation to include none of the sequence
+for item in sequence:
+    new accumulation = item combined with old accumulation

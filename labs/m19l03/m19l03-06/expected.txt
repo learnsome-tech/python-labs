@@ -1,0 +1,2 @@
+[('Ada', 'A'), ('Alan', 'B'), ('Edsger', 'A'), ('Grace', 'B')]
+[('Ada', 'A'), ('Edsger', 'A'), ('Alan', 'B'), ('Grace', 'B')]

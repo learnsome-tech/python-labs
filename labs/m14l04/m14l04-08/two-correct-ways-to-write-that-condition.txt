@@ -1,0 +1,3 @@
+(ans == 'y') or (ans == 'yes')
+
+ans in ['y', 'yes']

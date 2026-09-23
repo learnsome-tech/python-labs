@@ -1,0 +1,3 @@
+How many lines do you want to enter? Next line: Next line: Your lines were:
+tea leaves
+hot water

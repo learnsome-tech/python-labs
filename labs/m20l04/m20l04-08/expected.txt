@@ -1,0 +1,4 @@
+Point(x=3, y=0)
+True
+3 0
+False

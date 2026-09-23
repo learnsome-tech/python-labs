@@ -1,0 +1,5 @@
+$ python3 -m idlelib
+/usr/bin/python3: No module named idlelib
+
+$ python3 -c "import tkinter"
+ModuleNotFoundError: No module named 'tkinter'

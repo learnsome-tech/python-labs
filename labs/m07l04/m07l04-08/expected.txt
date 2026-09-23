@@ -1,0 +1,4 @@
+1 red
+2 orange
+2 yellow
+2 green

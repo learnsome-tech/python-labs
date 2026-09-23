@@ -1,0 +1,7 @@
+not isInside(rect, point)
+
+# tightest first:
+#   <  >  <=  >=  ==  !=  in
+#   not
+#   and
+#   or

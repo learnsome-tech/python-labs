@@ -1,0 +1,4 @@
+price at opening    illegal: blanks are not allowed
+priceatopening      legal, but hard to read
+price_at_opening    underscore separated
+priceAtOpening      camel case

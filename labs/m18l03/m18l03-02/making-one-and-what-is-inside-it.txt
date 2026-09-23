@@ -1,0 +1,10 @@
+$ cd ~/projects/hello
+$ python3 -m venv .venv
+$ ls .venv
+bin  include  lib  pyvenv.cfg
+
+$ ls .venv/bin
+activate  pip  pip3  python  python3
+
+$ ls .venv/lib/python3.14/site-packages
+pip

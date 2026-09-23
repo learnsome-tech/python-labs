@@ -1,0 +1,3 @@
+pip install ruff
+
+ruff format messy.py

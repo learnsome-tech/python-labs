@@ -1,0 +1,4 @@
+Settings > Apps > Advanced app settings > App execution aliases
+
+    python.exe      Off
+    python3.exe     Off

@@ -1,0 +1,5 @@
+return isBetween(point.getX(), pt1.getX(), pt2.getX()) and \
+       isBetween(point.getY(), pt1.getY(), pt2.getY()) 
+
+return (isBetween(point.getX(), pt1.getX(), pt2.getX()) and 
+        isBetween(point.getY(), pt1.getY(), pt2.getY()) )

@@ -1,0 +1,3 @@
+5.5
+11.0
+Return the postage in pounds for a parcel.

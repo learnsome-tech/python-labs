@@ -1,0 +1,21 @@
+The full string is:  word
+
+i = 0
+The letter at index i: w
+The part before index i (if any):
+The part before index i+2: wo
+
+i = 1
+The letter at index i: o
+The part before index i (if any): w
+The part before index i+2: wor
+
+i = 2
+The letter at index i: r
+The part before index i (if any): wo
+The part before index i+2: word
+
+i = 3
+The letter at index i: d
+The part before index i (if any): wor
+The part before index i+2: word

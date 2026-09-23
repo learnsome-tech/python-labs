@@ -1,0 +1,4 @@
+<class 'datetime.datetime'>
+True
+True True
+10 True

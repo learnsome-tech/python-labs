@@ -1,0 +1,3 @@
+27                a literal
+'hello'           a literal
+width             an identifier

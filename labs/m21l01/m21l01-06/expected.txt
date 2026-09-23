@@ -1,0 +1,4 @@
+b'caf\xc3\xa9\n'
+<class 'bytes'> 6
+'café\n'
+ascii cannot read this file

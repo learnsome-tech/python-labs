@@ -1,0 +1,7 @@
+data/note.txt
+False
+True
+hello from pathlib
+note.txt .txt data
+data/note.txt
+data/second.txt

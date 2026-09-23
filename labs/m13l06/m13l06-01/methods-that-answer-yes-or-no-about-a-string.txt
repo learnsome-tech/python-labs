@@ -1,0 +1,4 @@
+s.startswith(pre)     # True if s starts with pre
+s.endswith(suffix)    # True if s ends with suffix
+s.isdigit()           # True if s is all digits, and not empty
+s.replace(sub, new, count)   # a new string, s unchanged

@@ -1,0 +1,4 @@
+Initialize variables to be modified
+Loop heading controlling the repetition:
+    Do the desired action with the current variables
+    Modify variables to be ready for the next time

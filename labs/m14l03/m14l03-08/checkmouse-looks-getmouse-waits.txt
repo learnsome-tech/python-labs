@@ -1,0 +1,2 @@
+for i in range(75): 
+while win.checkMouse() == None:      #NEW*

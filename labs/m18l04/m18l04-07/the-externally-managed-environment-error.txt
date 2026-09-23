@@ -1,0 +1,13 @@
+$ python3 -m pip install requests
+error: externally-managed-environment
+
+* This environment is externally managed
+> To install Python packages system-wide, try brew install xyz,
+  where xyz is the package you are trying to install.
+
+  If you wish to install a Python library that isn't in Homebrew,
+  use a virtual environment:
+
+  python3 -m venv path/to/venv
+  source path/to/venv/bin/activate
+  python3 -m pip install xyz

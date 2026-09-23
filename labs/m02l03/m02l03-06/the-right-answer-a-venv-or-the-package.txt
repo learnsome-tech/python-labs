@@ -1,0 +1,7 @@
+python3 -m venv ~/.venvs/course
+source ~/.venvs/course/bin/activate
+pip install requests
+deactivate
+
+sudo apt install python3-requests
+pipx install ruff

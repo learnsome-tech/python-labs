@@ -1,0 +1,3 @@
+s.find(sub)
+s.find(sub, start)
+s.find(sub, start, end)

@@ -1,0 +1,4 @@
+Idle:  Help  ->  Python Docs  ->  Library Reference
+       Built-in Types  ->  str
+
+capitalize   title   strip   rfind   ...

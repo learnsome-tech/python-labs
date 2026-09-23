@@ -1,0 +1,10 @@
+C:\projects\hello> py -m venv .venv
+
+PowerShell:
+PS C:\projects\hello> .venv\Scripts\Activate.ps1
+
+Command Prompt:
+C:\projects\hello> .venv\Scripts\activate.bat
+
+Any shell, to leave:
+deactivate

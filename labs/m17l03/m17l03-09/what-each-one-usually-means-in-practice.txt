@@ -1,0 +1,9 @@
+NameError          misspelled, or not assigned yet
+TypeError          wrong sort of thing, or wrong arguments
+ValueError         right sort of thing, unusable value
+AttributeError     misremembered method, or an object of None
+IndexError         off by one at the end of a sequence
+KeyError           the key was never put in, or spelled oddly
+ZeroDivisionError  a count or total that came out zero
+ImportError        not installed, or the wrong environment
+FileNotFoundError  a relative path and the wrong folder

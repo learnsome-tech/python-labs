@@ -1,0 +1,11 @@
+2 + 6 is 8
+8 + 3 is 11
+11 + 8 is 19
+19 is the answer to be returned.
+
+start with a sum of 0
+0 + 2 is 2
+2 + 6 is 8
+8 + 3 is 11
+11 + 8 is 19
+19 is the answer.

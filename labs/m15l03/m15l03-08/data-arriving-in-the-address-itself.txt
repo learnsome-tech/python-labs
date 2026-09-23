@@ -1,0 +1,2 @@
+http://localhost:8080/adder.cgi?x=24&y=56
+http://localhost:8080/adder.cgi?x=-12345678924&y=33333333333

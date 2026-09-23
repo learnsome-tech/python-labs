@@ -1,0 +1,4 @@
+Fido
+3
+Dog
+{'name': 'Fido', 'age': 3}

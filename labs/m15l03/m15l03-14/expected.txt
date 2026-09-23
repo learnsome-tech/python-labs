@@ -1,0 +1,2 @@
+Traceback (most recent call last):
+AttributeError: 'str' object has no attribute 'append'

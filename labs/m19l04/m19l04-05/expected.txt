@@ -1,0 +1,3 @@
+list megabytes: 8
+generator under a kilobyte: True
+both add up to the same total: True

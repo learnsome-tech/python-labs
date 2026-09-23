@@ -1,0 +1,1 @@
+Enter a color, or just press Enter for the default: The color is red

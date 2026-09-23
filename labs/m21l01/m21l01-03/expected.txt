@@ -1,0 +1,3 @@
+caught: the data ran out
+file closed: True
+on disk: 'half a report'

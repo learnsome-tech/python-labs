@@ -1,0 +1,6 @@
+Dog          one object: the class
+Dog('Fido')  a new object: an instance
+Dog('Rex')   another new object
+
+fido.name    fine
+Dog.name     AttributeError

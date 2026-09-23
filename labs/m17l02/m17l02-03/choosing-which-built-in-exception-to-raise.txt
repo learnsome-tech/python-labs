@@ -1,0 +1,5 @@
+ValueError   right type, unusable value
+TypeError    wrong type of thing altogether
+KeyError     no such key
+IndexError   no such position
+RuntimeError when nothing more precise fits

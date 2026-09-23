@@ -1,0 +1,1 @@
+s.upper()   s.lower()   s.count(sub)   s.find(sub)   s.find(sub, start)

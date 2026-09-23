@@ -1,0 +1,5 @@
+https://www.python.org/downloads/macos/
+
+/Library/Frameworks/Python.framework
+/Applications/Python 3.14/
+/usr/local/bin/python3

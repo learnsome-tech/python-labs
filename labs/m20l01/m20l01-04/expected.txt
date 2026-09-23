@@ -1,0 +1,5 @@
+Fido 3
+Rex 7
+4 7
+False
+True

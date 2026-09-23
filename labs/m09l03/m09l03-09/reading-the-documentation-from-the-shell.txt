@@ -1,0 +1,4 @@
+help(s.find)
+
+dir(str)
+help(str.capitalize)

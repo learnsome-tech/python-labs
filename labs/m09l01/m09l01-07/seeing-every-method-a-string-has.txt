@@ -1,0 +1,6 @@
+dir('')
+
+['__add__', '__class__', ... ,
+ 'capitalize', 'casefold', 'center', 'count', 'encode',
+ 'endswith', ... , 'find', 'format', ... , 'join', 'lower',
+ ... , 'split', 'startswith', 'strip', 'title', 'upper', ...]

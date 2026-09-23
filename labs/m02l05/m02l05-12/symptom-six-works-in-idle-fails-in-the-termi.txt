@@ -1,0 +1,7 @@
+$ python3 hello.py
+python3: can't open file '/Users/you/hello.py':
+[Errno 2] No such file or directory
+
+$ cd ~/python
+$ ls hello.py
+$ python3 hello.py

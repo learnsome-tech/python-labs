@@ -1,0 +1,4 @@
+Point(1, 2)
+the point 1 across, 2 up
+the point 1 across, 2 up
+[Point(1, 2), Point(3, 4)]

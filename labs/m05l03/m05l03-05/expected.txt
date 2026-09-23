@@ -1,0 +1,3 @@
+Enter the applicant's name: Enter the interviewer's name: Enter the appointment time: Bob Jones will interview Anna Smith at 2:30 pm.
+Bob Jones will interview Anna Smith at 2:30 pm.
+Bob Jones will interview Anna Smith at 2:30 pm.

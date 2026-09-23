@@ -1,0 +1,3 @@
+True False
+True
+TypeError: cannot use 'Point' as a set element (unhashable type: 'Point')

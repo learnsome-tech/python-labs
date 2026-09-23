@@ -1,0 +1,9 @@
+12
+log: bad count from the user: 'a few'
+Traceback (most recent call last):
+  File "relog.py", line 9, in <module>
+    print(parse_count('a few'))
+          ~~~~~~~~~~~^^^^^^^^^
+  File "relog.py", line 3, in parse_count
+    return int(text)
+ValueError: invalid literal for int() with base 10: 'a few'

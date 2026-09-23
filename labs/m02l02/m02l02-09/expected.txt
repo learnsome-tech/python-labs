@@ -1,0 +1,2 @@
+** IDLE can't import Tkinter.
+Your Python may not be configured for Tk. **

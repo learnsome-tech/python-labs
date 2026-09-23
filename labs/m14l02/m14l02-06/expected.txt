@@ -1,0 +1,5 @@
+Enter lines of text.
+Enter an empty line to quit.
+Next line: Next line: Next line: Your lines were:
+tea leaves
+hot water

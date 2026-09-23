@@ -1,0 +1,2 @@
+Traceback (most recent call last):
+NameError: name 'x' is not defined
