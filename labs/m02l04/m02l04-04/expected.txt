@@ -1,0 +1,5 @@
+'/opt/lab/bin/python3'
+'3.14.7 (main, Sep 24 2026, 17:58:18) [Clang 22.1.3 ]'
+'/opt/python'
+5
+'/opt/python/lib/python3.14/site-packages'

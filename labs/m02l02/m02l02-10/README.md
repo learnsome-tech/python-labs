@@ -34,8 +34,8 @@ Shown for reference; the check does not compare it.
 
 ```text
 (3, 14, 7)
-/opt/homebrew/opt/python@3.14/bin/python3.14
-/opt/homebrew/opt/python@3.14/Frameworks/Python.framework/Versions/3.14
+/opt/lab/bin/python3
+/opt/python
 ```
 
 ## How to check

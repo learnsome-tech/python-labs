@@ -8,6 +8,6 @@ sys.version_info
 sys.version_info.major
 #   3
 sys.platform
-#   'darwin'
+#   'linux'
 sys.implementation.name
 #   'cpython'

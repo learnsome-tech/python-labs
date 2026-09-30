@@ -31,7 +31,7 @@ In the lesson: Finally, a habit worth keeping. When anything about Python surpri
 Shown for reference; the check does not compare it.
 
 ```text
-/opt/homebrew/opt/python@3.14/bin/python3.14
+/opt/lab/bin/python3
 (3, 14, 7)
 True
 ```

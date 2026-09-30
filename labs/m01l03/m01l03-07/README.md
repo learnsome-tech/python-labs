@@ -1,7 +1,7 @@
 # m01l03-07 · Ask your own interpreter what it is
 
 **Lesson:** [What Python Is, And Where It Came From](https://learnsome.tech/learn/python-course/m01l03) (lesson 1.3, module 1: Before You Write Code) · Free  
-**Check:** Runs, not graded
+**Check:** Graded
 
 ## Goal
 
@@ -12,6 +12,7 @@ In the lesson: You do not have to guess any of this about your own machine, beca
 ## Files
 
 - [`starter/shell-ask-your-own-interpreter-what-it-is.py`](starter/shell-ask-your-own-interpreter-what-it-is.py): the listing from the lesson
+- [`expected.txt`](expected.txt): the output the check compares with
 - [`check.json`](check.json): how `./check` runs and checks this lab
 
 ## Steps
@@ -30,11 +31,20 @@ In the lesson: You do not have to guess any of this about your own machine, beca
 4. Run it: `python3 -i < shell-ask-your-own-interpreter-what-it-is.py`.
 5. Check it from the repository root: `./check m01l03-07`.
 
+## Expected output
+
+```text
+sys.version_info(major=3, minor=14, micro=7, releaselevel='final', serial=0)
+3
+'linux'
+'cpython'
+```
+
 ## How to check
 
 `./check m01l03-07` copies `starter/` into a scratch directory and runs `python3 -i < shell-ask-your-own-interpreter-what-it-is.py` there, the way the site's lab sandbox does: that directory is the working directory and `HOME`, `LANG=C.UTF-8`, `TZ=UTC`, a limit of 10 seconds and 256 KiB of output per stream.
 
-It runs without a pass or fail: what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail. `./check` shows the output and the exit code.
+It passes when the output matches `expected.txt` by the site's rules, within the limits. The session is typed into Python's interactive prompt line by line, as in the lesson, and what Python answers is compared with the answers recorded in the session (its `#   ` comment lines, collected into `expected.txt`): line by line, spaces at the end of a line and blank lines at the end do not count, and errors are compared with their traceback frames set aside. A pass here is a pass on the site.
 
 ---
 

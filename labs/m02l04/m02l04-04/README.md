@@ -1,7 +1,7 @@
 # m02l04-04 · Asking the interpreter about itself
 
 **Lesson:** [Where Python Lives: PATH And Versions](https://learnsome.tech/learn/python-course/m02l04) (lesson 2.4, module 2: Install Python Properly) · Pro  
-**Check:** Runs, not graded
+**Check:** Graded
 
 ## Goal
 
@@ -12,6 +12,7 @@ In the lesson: The reliable way to find out what you are running is to ask it. I
 ## Files
 
 - [`starter/shell-asking-the-interpreter-about-itself.py`](starter/shell-asking-the-interpreter-about-itself.py): the listing from the lesson
+- [`expected.txt`](expected.txt): the output the check compares with
 - [`check.json`](check.json): how `./check` runs and checks this lab
 
 ## Steps
@@ -31,11 +32,21 @@ In the lesson: The reliable way to find out what you are running is to ask it. I
 4. Run it: `python3 -i < shell-asking-the-interpreter-about-itself.py`.
 5. Check it from the repository root: `./check m02l04-04`.
 
+## Expected output
+
+```text
+'/opt/lab/bin/python3'
+'3.14.7 (main, Sep 24 2026, 17:58:18) [Clang 22.1.3 ]'
+'/opt/python'
+5
+'/opt/python/lib/python3.14/site-packages'
+```
+
 ## How to check
 
 `./check m02l04-04` copies `starter/` into a scratch directory and runs `python3 -i < shell-asking-the-interpreter-about-itself.py` there, the way the site's lab sandbox does: that directory is the working directory and `HOME`, `LANG=C.UTF-8`, `TZ=UTC`, a limit of 10 seconds and 256 KiB of output per stream.
 
-It runs without a pass or fail: what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail. `./check` shows the output and the exit code.
+It passes when the output matches `expected.txt` by the site's rules, within the limits. The session is typed into Python's interactive prompt line by line, as in the lesson, and what Python answers is compared with the answers recorded in the session (its `#   ` comment lines, collected into `expected.txt`): line by line, spaces at the end of a line and blank lines at the end do not count, and errors are compared with their traceback frames set aside. A pass here is a pass on the site.
 
 ---
 

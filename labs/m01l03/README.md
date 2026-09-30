@@ -10,7 +10,7 @@ Module 1: Before You Write Code · lesson 1.3 · Free · [Open the lesson](https
 | --- | --- | --- |
 | [m01l03-02](m01l03-02/) | Dynamic typing, in one small picture | Read along |
 | [m01l03-06](m01l03-06/) | Reading a version number | Read along |
-| [m01l03-07](m01l03-07/) | Ask your own interpreter what it is | Runs, not graded |
+| [m01l03-07](m01l03-07/) | Ask your own interpreter what it is | Graded |
 | [m01l03-08](m01l03-08/) | The usual Python is written in C | Read along |
 
 ## Check yourself

@@ -2,7 +2,7 @@
   "courseId": "python-course",
   "repository": "learnsome-tech/python-labs",
   "coursePage": "https://learnsome.tech/courses/python-course",
-  "exampleLab": "m01l04-02",
+  "exampleLab": "m01l03-07",
   "limits": {
     "timeoutSeconds": 10,
     "outputBytes": 262144

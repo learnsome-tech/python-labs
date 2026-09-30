@@ -4,12 +4,12 @@
 
 import sys
 sys.executable
-#   '/opt/homebrew/opt/python@3.14/bin/python3.14'
+#   '/opt/lab/bin/python3'
 sys.version
-#   '3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.1.1.101)]'
+#   '3.14.7 (main, Sep 24 2026, 17:58:18) [Clang 22.1.3 ]'
 sys.prefix
-#   '/opt/homebrew/opt/python@3.14/Frameworks/Python.framework/Versions/3.14'
+#   '/opt/python'
 len(sys.path)
 #   5
 sys.path[-1]
-#   '/opt/homebrew/lib/python3.14/site-packages'
+#   '/opt/python/lib/python3.14/site-packages'

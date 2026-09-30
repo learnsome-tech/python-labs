@@ -1,0 +1,4 @@
+sys.version_info(major=3, minor=14, micro=7, releaselevel='final', serial=0)
+3
+'linux'
+'cpython'
