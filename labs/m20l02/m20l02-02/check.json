@@ -1,0 +1,19 @@
+{
+  "lab": "m20l02-02",
+  "lesson": "m20l02",
+  "title": "Writing a method, and calling it",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dogMethods.py",
+  "main": "dogMethods.py",
+  "files": [
+    "dogMethods.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m20l02-07",
+  "lesson": "m20l02",
+  "title": "A property: behaviour behind a plain name",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 circleArea.py",
+  "main": "circleArea.py",
+  "files": [
+    "circleArea.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

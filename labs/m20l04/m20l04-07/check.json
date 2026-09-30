@@ -1,0 +1,19 @@
+{
+  "lab": "m20l04-07",
+  "lesson": "m20l04",
+  "title": "__len__ and __getitem__ make it a sequence",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 deckSequence.py",
+  "main": "deckSequence.py",
+  "files": [
+    "deckSequence.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

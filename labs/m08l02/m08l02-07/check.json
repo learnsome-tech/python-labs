@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-07",
+  "lesson": "m08l02",
+  "title": "The same rounding inside a format string",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-same-rounding-inside-a-format-string.py",
+  "main": "shell-the-same-rounding-inside-a-format-string.py",
+  "files": [
+    "shell-the-same-rounding-inside-a-format-string.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

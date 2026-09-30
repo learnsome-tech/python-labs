@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-05",
+  "lesson": "m07l03",
+  "title": "The range function, part one",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-range-function-part-one.py",
+  "main": "shell-the-range-function-part-one.py",
+  "files": [
+    "shell-the-range-function-part-one.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

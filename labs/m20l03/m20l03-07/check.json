@@ -1,0 +1,19 @@
+{
+  "lab": "m20l03-07",
+  "lesson": "m20l03",
+  "title": "The same car, composed instead",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 carCompose.py",
+  "main": "carCompose.py",
+  "files": [
+    "carCompose.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

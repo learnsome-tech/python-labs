@@ -1,0 +1,19 @@
+{
+  "lab": "m10l01-10",
+  "lesson": "m10l01",
+  "title": "Test the function on its own, first",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 tryGetKeys.py",
+  "main": "tryGetKeys.py",
+  "files": [
+    "tryGetKeys.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

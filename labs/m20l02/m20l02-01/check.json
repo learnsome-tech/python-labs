@@ -1,0 +1,17 @@
+{
+  "lab": "m20l02-01",
+  "lesson": "m20l02",
+  "title": "A method is a function in the class body",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "a-method-is-a-function-in-the-class-body.py",
+  "files": [
+    "a-method-is-a-function-in-the-class-body.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

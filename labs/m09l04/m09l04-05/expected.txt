@@ -1,0 +1,5 @@
+'Go: Tear some strings apart!'
+'Go:Tearsomestringsapart!'
+'Go://Tear//some//strings//apart!'
+'Go:##Tear##some##strings##apart!'
+'one:two:three'

@@ -1,0 +1,19 @@
+{
+  "lab": "m19l02-03",
+  "lesson": "m19l02",
+  "title": "The filtering clause",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-filtering-clause.py",
+  "main": "shell-the-filtering-clause.py",
+  "files": [
+    "shell-the-filtering-clause.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m18l03-07",
+  "lesson": "m18l03",
+  "title": "One per project, and never committed",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "one-per-project-and-never-committed.txt",
+  "files": [
+    "one-per-project-and-never-committed.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

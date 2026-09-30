@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-05",
+  "lesson": "m06l03",
+  "title": "Parameters and a main function together",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 birthday7.py",
+  "main": "birthday7.py",
+  "files": [
+    "birthday7.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

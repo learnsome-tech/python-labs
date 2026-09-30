@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-08",
+  "lesson": "m04l03",
+  "title": "Mixed types, and the two ways to fix it",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-mixed-types-and-the-two-ways-to-fix-it.py",
+  "main": "shell-mixed-types-and-the-two-ways-to-fix-it.py",
+  "files": [
+    "shell-mixed-types-and-the-two-ways-to-fix-it.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

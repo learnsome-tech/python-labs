@@ -1,0 +1,19 @@
+{
+  "lab": "m20l01-05",
+  "lesson": "m20l01",
+  "title": "The class itself, and an instance of it",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-class-itself-and-an-instance-of-it.py",
+  "main": "shell-the-class-itself-and-an-instance-of-it.py",
+  "files": [
+    "shell-the-class-itself-and-an-instance-of-it.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

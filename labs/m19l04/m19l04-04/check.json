@@ -1,0 +1,19 @@
+{
+  "lab": "m19l04-04",
+  "lesson": "m19l04",
+  "title": "Writing a generator with yield",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 countdown.py",
+  "main": "countdown.py",
+  "files": [
+    "countdown.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

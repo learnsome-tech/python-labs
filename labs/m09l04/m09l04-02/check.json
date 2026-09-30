@@ -1,0 +1,19 @@
+{
+  "lab": "m09l04-02",
+  "lesson": "m09l04",
+  "title": "Splitting a sentence and a word",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-splitting-a-sentence-and-a-word.py",
+  "main": "shell-splitting-a-sentence-and-a-word.py",
+  "files": [
+    "shell-splitting-a-sentence-and-a-word.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

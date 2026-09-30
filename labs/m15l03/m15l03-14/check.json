@@ -1,0 +1,19 @@
+{
+  "lab": "m15l03-14",
+  "lesson": "m15l03",
+  "title": "Seeing an execution error on purpose",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bad.py",
+  "main": "bad.py",
+  "files": [
+    "bad.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

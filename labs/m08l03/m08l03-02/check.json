@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-02",
+  "lesson": "m08l03",
+  "title": "Types and their literals",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-types-and-their-literals.py",
+  "main": "shell-types-and-their-literals.py",
+  "files": [
+    "shell-types-and-their-literals.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

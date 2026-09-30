@@ -1,0 +1,5 @@
+'23'
+5
+3.5
+Traceback (most recent call last):
+ValueError: invalid literal for int() with base 10: '3.5'

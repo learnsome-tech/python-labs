@@ -1,0 +1,19 @@
+{
+  "lab": "m04l02-02",
+  "lesson": "m04l02",
+  "title": "True division always gives a float",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-true-division-always-gives-a-float.py",
+  "main": "shell-true-division-always-gives-a-float.py",
+  "files": [
+    "shell-true-division-always-gives-a-float.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

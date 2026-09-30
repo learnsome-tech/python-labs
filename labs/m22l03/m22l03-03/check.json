@@ -1,0 +1,19 @@
+{
+  "lab": "m22l03-03",
+  "lesson": "m22l03",
+  "title": "A file nobody wants to read",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 messy.py",
+  "main": "messy.py",
+  "files": [
+    "messy.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

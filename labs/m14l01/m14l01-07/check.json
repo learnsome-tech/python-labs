@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-07",
+  "lesson": "m14l01",
+  "title": "The range function with a step",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-range-function-with-a-step.py",
+  "main": "shell-the-range-function-with-a-step.py",
+  "files": [
+    "shell-the-range-function-with-a-step.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

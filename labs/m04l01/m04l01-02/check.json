@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-02",
+  "lesson": "m04l01",
+  "title": "Type it and press Enter",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-type-it-and-press-enter.py",
+  "main": "shell-type-it-and-press-enter.py",
+  "files": [
+    "shell-type-it-and-press-enter.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

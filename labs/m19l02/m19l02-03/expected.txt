@@ -1,0 +1,4 @@
+['PEAR', 'BANANA', 'KIWI']
+['pear', 'banana']
+[0, 3, 6, 9, 12, 15, 18]
+['long', 'short', 'long', 'long']

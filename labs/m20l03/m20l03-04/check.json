@@ -1,0 +1,19 @@
+{
+  "lab": "m20l03-04",
+  "lesson": "m20l03",
+  "title": "isinstance, issubclass and the search order",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-isinstance-issubclass-and-the-search-order.py",
+  "main": "shell-isinstance-issubclass-and-the-search-order.py",
+  "files": [
+    "shell-isinstance-issubclass-and-the-search-order.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

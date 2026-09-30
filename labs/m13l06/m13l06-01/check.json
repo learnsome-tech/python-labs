@@ -1,0 +1,17 @@
+{
+  "lab": "m13l06-01",
+  "lesson": "m13l06",
+  "title": "Methods that answer yes or no about a string",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "methods-that-answer-yes-or-no-about-a-string.txt",
+  "files": [
+    "methods-that-answer-yes-or-no-about-a-string.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

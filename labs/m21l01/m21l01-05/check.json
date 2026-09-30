@@ -1,0 +1,19 @@
+{
+  "lab": "m21l01-05",
+  "lesson": "m21l01",
+  "title": "Append instead of destroying what is there",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 appendLog.py",
+  "main": "appendLog.py",
+  "files": [
+    "appendLog.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

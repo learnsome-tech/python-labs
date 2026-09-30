@@ -1,0 +1,17 @@
+{
+  "lab": "m07l01-03",
+  "lesson": "m07l01",
+  "title": "Square brackets do two different jobs",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "square-brackets-do-two-different-jobs.py",
+  "files": [
+    "square-brackets-do-two-different-jobs.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

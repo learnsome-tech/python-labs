@@ -1,0 +1,6 @@
+'fig'
+'banana'
+Traceback (most recent call last):
+TypeError: sum() got an unexpected keyword argument 'key'
+13
+'nothing'

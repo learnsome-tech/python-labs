@@ -1,0 +1,19 @@
+{
+  "lab": "m03l02-04",
+  "lesson": "m03l02",
+  "title": "Your first line at the prompt",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-your-first-line-at-the-prompt.py",
+  "main": "shell-your-first-line-at-the-prompt.py",
+  "files": [
+    "shell-your-first-line-at-the-prompt.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

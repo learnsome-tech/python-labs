@@ -1,0 +1,19 @@
+{
+  "lab": "m13l07-03",
+  "lesson": "m13l07",
+  "title": "Packing and unpacking a tuple",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 tupleAssign.py",
+  "main": "tupleAssign.py",
+  "files": [
+    "tupleAssign.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

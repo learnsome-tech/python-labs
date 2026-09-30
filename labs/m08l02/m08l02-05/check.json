@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-05",
+  "lesson": "m08l02",
+  "title": "The format function",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-format-function.py",
+  "main": "shell-the-format-function.py",
+  "files": [
+    "shell-the-format-function.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

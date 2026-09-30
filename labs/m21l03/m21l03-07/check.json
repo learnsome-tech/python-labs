@@ -1,0 +1,19 @@
+{
+  "lab": "m21l03-07",
+  "lesson": "m21l03",
+  "title": "Shuffling, sampling and repeated choices",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 randomLists.py",
+  "main": "randomLists.py",
+  "files": [
+    "randomLists.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

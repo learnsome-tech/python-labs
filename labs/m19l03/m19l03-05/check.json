@@ -1,0 +1,19 @@
+{
+  "lab": "m19l03-05",
+  "lesson": "m19l03",
+  "title": "Tuples, dictionaries and the second field",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-tuples-dictionaries-and-the-second-field.py",
+  "main": "shell-tuples-dictionaries-and-the-second-field.py",
+  "files": [
+    "shell-tuples-dictionaries-and-the-second-field.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

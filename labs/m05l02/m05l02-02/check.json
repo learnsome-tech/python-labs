@@ -1,0 +1,20 @@
+{
+  "lab": "m05l02-02",
+  "lesson": "m05l02",
+  "title": "Reading the user's name",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hello_you.py",
+  "main": "hello_you.py",
+  "files": [
+    "hello_you.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

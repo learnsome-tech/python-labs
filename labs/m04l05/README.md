@@ -1,24 +1,28 @@
-# Literals, Identifiers And Keywords
+# m04l05 · Literals, Identifiers And Keywords
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Data And Expressions  
-**Lesson**: `m04l05`
+Module 4: Data And Expressions · lesson 4.5 · Pro · [Open the lesson](https://learnsome.tech/learn/python-course/m04l05)
 
-## Links
+**Goal:** You can tell a literal from an identifier, say which character sequences Python allows as a name, avoid the reserved words, and name multi word variables in a conventional way.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m04l05)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-4-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l05-01](m04l05-01/) | Literals and identifiers | Read along |
+| [m04l05-03](m04l05-03/) | Three names Python refuses | Graded |
+| [m04l05-04](m04l05-04/) | The reserved words, for the curious | Read along |
+| [m04l05-05](m04l05-05/) | Python is case sensitive | Graded |
+| [m04l05-06](m04l05-06/) | Hiding a predefined name is legal, and unwise | Graded |
+| [m04l05-07](m04l05-07/) | Legal is not the same as good | Read along |
 
-- [`m04l05-01/`](m04l05-01/)
-- [`m04l05-03/`](m04l05-03/)
-- [`m04l05-04/`](m04l05-04/)
-- [`m04l05-05/`](m04l05-05/)
-- [`m04l05-06/`](m04l05-06/)
-- [`m04l05-07/`](m04l05-07/)
+## Check yourself
+
+- What is the difference between a literal and an identifier?
+- Which characters may appear in an identifier, and which must come first?
+- Why is assigning to the name class a syntax error rather than a name error?
+- What happens if you name a variable list, and why is nothing reported at the time?
+- Give the same three word name in underscore separated form and in camel case.
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

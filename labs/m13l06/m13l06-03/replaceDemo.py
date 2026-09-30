@@ -1,9 +1,0 @@
-# Hands-on Python: Complete Video Course & Book — lesson m13l06 — More String Methods
-# https://learnsome.tech/courses/python-course/watch?lesson=m13l06
-# © LearnSome.tech
-s = '-123'
-t = s.replace('-', '', 1) # t equals '123'
-t = t.replace('-', '', 1) # t is still equal to '123'
-u = '.2.3.4.'
-v = u.replace('.', '', 2) # v equals '23.4.'
-w = u.replace('.', ' dot ', 5) # w equals '2 dot 3 dot 4 dot '

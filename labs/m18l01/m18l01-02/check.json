@@ -1,0 +1,19 @@
+{
+  "lab": "m18l01-02",
+  "lesson": "m18l01",
+  "title": "The three ways to import",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-three-ways-to-import.py",
+  "main": "shell-the-three-ways-to-import.py",
+  "files": [
+    "shell-the-three-ways-to-import.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

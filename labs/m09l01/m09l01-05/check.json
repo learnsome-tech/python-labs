@@ -1,0 +1,19 @@
+{
+  "lab": "m09l01-05",
+  "lesson": "m09l01",
+  "title": "Counting substrings with count",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-counting-substrings-with-count.py",
+  "main": "shell-counting-substrings-with-count.py",
+  "files": [
+    "shell-counting-substrings-with-count.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

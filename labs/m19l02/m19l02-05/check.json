@@ -1,0 +1,19 @@
+{
+  "lab": "m19l02-05",
+  "lesson": "m19l02",
+  "title": "Nesting, and flattening",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 nested.py",
+  "main": "nested.py",
+  "files": [
+    "nested.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

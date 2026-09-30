@@ -1,0 +1,1 @@
+val = form.getlist(name)

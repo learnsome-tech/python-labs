@@ -1,0 +1,17 @@
+{
+  "lab": "m02l05-04",
+  "lesson": "m02l05",
+  "title": "Way three: the same file, from Idle",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "way-three-the-same-file-from-idle.txt",
+  "files": [
+    "way-three-the-same-file-from-idle.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

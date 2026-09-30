@@ -1,0 +1,20 @@
+{
+  "lab": "m14l04-12",
+  "lesson": "m14l04",
+  "title": "Where the strange syntax pays for itself",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 orNotBoolean.py",
+  "main": "orNotBoolean.py",
+  "files": [
+    "input.txt",
+    "orNotBoolean.py"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m09l03-05",
+  "lesson": "m09l03",
+  "title": "Slices are forgiving about the end",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-slices-are-forgiving-about-the-end.py",
+  "main": "shell-slices-are-forgiving-about-the-end.py",
+  "files": [
+    "shell-slices-are-forgiving-about-the-end.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

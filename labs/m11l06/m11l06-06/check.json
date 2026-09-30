@@ -1,0 +1,17 @@
+{
+  "lab": "m11l06-06",
+  "lesson": "m11l06",
+  "title": "Withholding updates with autoflush",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "backAndForth2Update.py",
+  "files": [
+    "backAndForth2Update.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

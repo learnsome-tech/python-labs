@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-06",
+  "lesson": "m06l01",
+  "title": "A definition and two calls",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 birthday3.py",
+  "main": "birthday3.py",
+  "files": [
+    "birthday3.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

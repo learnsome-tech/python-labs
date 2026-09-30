@@ -1,0 +1,17 @@
+{
+  "lab": "m05l03-03",
+  "lesson": "m05l03",
+  "title": "Method calling syntax",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "method-calling-syntax.txt",
+  "files": [
+    "method-calling-syntax.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

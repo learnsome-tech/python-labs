@@ -1,0 +1,17 @@
+{
+  "lab": "m07l07-01",
+  "lesson": "m07l07",
+  "title": "What end is, and what it is by default",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "what-end-is-and-what-it-is-by-default.py",
+  "files": [
+    "what-end-is-and-what-it-is-by-default.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m21l04-02",
+  "lesson": "m21l04",
+  "title": "math and statistics: the numbers you were taught",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 mathStats.py",
+  "main": "mathStats.py",
+  "files": [
+    "mathStats.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

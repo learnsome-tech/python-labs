@@ -1,0 +1,6 @@
+(1, 2, 3)
+('yes', 'no')
+'yes'
+2
+Traceback (most recent call last):
+TypeError: 'tuple' object does not support item assignment

@@ -1,0 +1,19 @@
+{
+  "lab": "m19l03-07",
+  "lesson": "m19l03",
+  "title": "min, max, and the one that has no key",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-min-max-and-the-one-that-has-no-key.py",
+  "main": "shell-min-max-and-the-one-that-has-no-key.py",
+  "files": [
+    "shell-min-max-and-the-one-that-has-no-key.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

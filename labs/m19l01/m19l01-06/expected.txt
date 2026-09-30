@@ -1,0 +1,5 @@
+'start'
+Traceback (most recent call last):
+TypeError: cannot use 'list' as a dict key (unhashable type: 'list')
+True
+[(0, 0), (2, 3)]

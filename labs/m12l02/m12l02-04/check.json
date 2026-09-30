@@ -1,0 +1,17 @@
+{
+  "lab": "m12l02-04",
+  "lesson": "m12l02",
+  "title": "The string methods you now know",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-string-methods-you-now-know.txt",
+  "files": [
+    "the-string-methods-you-now-know.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

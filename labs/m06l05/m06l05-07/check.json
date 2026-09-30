@@ -1,0 +1,20 @@
+{
+  "lab": "m06l05-07",
+  "lesson": "m06l05",
+  "title": "One function, one job",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 addition6.py",
+  "main": "addition6.py",
+  "files": [
+    "addition6.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

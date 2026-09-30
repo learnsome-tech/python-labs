@@ -1,0 +1,17 @@
+{
+  "lab": "m14l05-04",
+  "lesson": "m14l05",
+  "title": "Nesting, and what indentation decides",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "nesting-and-what-indentation-decides.py",
+  "files": [
+    "nesting-and-what-indentation-decides.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

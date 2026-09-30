@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-07",
+  "lesson": "m04l03",
+  "title": "Same symbol, different types",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-same-symbol-different-types.py",
+  "main": "shell-same-symbol-different-types.py",
+  "files": [
+    "shell-same-symbol-different-types.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m10l02-08",
+  "lesson": "m10l02",
+  "title": "An exercise in the same shape",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "an-exercise-in-the-same-shape.txt",
+  "files": [
+    "an-exercise-in-the-same-shape.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m08l01-02",
+  "lesson": "m08l01",
+  "title": "Division always hands back a float",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-division-always-hands-back-a-float.py",
+  "main": "shell-division-always-hands-back-a-float.py",
+  "files": [
+    "shell-division-always-hands-back-a-float.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

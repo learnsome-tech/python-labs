@@ -1,0 +1,17 @@
+{
+  "lab": "m15l03-03",
+  "lesson": "m15l03",
+  "title": "The example in operation",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-example-in-operation.txt",
+  "files": [
+    "the-example-in-operation.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

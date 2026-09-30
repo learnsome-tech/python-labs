@@ -1,0 +1,19 @@
+{
+  "lab": "m19l03-02",
+  "lesson": "m19l03",
+  "title": "sorted against sort",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-sorted-against-sort.py",
+  "main": "shell-sorted-against-sort.py",
+  "files": [
+    "shell-sorted-against-sort.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

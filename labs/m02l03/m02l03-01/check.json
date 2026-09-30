@@ -1,0 +1,17 @@
+{
+  "lab": "m02l03-01",
+  "lesson": "m02l03",
+  "title": "Linux already has Python, and it is not yours",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "linux-already-has-python-and-it-is-not-yours.txt",
+  "files": [
+    "linux-already-has-python-and-it-is-not-yours.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

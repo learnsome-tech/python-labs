@@ -1,0 +1,19 @@
+{
+  "lab": "m01l03-07",
+  "lesson": "m01l03",
+  "title": "Ask your own interpreter what it is",
+  "mode": "run",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-ask-your-own-interpreter-what-it-is.py",
+  "main": "shell-ask-your-own-interpreter-what-it-is.py",
+  "files": [
+    "shell-ask-your-own-interpreter-what-it-is.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "python3"
+  ],
+  "note": "what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail."
+}

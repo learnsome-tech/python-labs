@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-09",
+  "lesson": "m07l04",
+  "title": "The crucial line, and the whole loop",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 numberEntries3.py",
+  "main": "numberEntries3.py",
+  "files": [
+    "numberEntries3.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

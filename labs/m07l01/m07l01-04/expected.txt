@@ -1,0 +1,6 @@
+{'hello': 'hola', 'red': 'rojo'}
+'rojo'
+Traceback (most recent call last):
+KeyError: 'purple'
+False
+True

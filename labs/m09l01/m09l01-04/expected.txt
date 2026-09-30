@@ -1,0 +1,5 @@
+'hello!'
+'hello!HELLO!'
+'Hello there'
+'Hello There'
+'Hello!'

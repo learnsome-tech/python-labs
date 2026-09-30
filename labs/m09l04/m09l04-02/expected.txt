@@ -1,0 +1,3 @@
+['This', 'is', 'the', 'best', 'of', 'times.']
+['M', 'ss', 'ss', 'pp', '']
+['Mississippi']

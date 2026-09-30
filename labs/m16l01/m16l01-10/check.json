@@ -1,0 +1,19 @@
+{
+  "lab": "m16l01-10",
+  "lesson": "m16l01",
+  "title": "A traceback with a chain of calls",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 showtraceback.py",
+  "main": "showtraceback.py",
+  "files": [
+    "showtraceback.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

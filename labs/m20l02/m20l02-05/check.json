@@ -1,0 +1,19 @@
+{
+  "lab": "m20l02-05",
+  "lesson": "m20l02",
+  "title": "The shared mutable attribute trap",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 tricks.py",
+  "main": "tricks.py",
+  "files": [
+    "tricks.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

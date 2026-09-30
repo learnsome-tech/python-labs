@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-02",
+  "lesson": "m14l01",
+  "title": "cool.py, the tea made numerical",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 cool.py",
+  "main": "cool.py",
+  "files": [
+    "cool.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

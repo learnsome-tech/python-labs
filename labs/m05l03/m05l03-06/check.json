@@ -1,0 +1,20 @@
+{
+  "lab": "m05l03-06",
+  "lesson": "m05l03",
+  "title": "Format converts types for you",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 addition4a.py",
+  "main": "addition4a.py",
+  "files": [
+    "addition4a.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

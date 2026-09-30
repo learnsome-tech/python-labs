@@ -1,0 +1,19 @@
+{
+  "lab": "m17l01-06",
+  "lesson": "m17l01",
+  "title": "The as clause hands you the object",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 exceptobject.py",
+  "main": "exceptobject.py",
+  "files": [
+    "exceptobject.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

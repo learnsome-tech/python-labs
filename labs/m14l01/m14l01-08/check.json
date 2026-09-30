@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-08",
+  "lesson": "m14l01",
+  "title": "The counting while becomes a for",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 testWhileAsFor.py",
+  "main": "testWhileAsFor.py",
+  "files": [
+    "testWhileAsFor.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

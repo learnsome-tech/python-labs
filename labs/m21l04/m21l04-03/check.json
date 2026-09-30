@@ -1,0 +1,19 @@
+{
+  "lab": "m21l04-03",
+  "lesson": "m21l04",
+  "title": "collections: Counter, defaultdict and namedtuple",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 collect.py",
+  "main": "collect.py",
+  "files": [
+    "collect.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

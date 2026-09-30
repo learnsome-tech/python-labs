@@ -1,0 +1,19 @@
+{
+  "lab": "m19l04-03",
+  "lesson": "m19l04",
+  "title": "What a for loop really does",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 byhand.py",
+  "main": "byhand.py",
+  "files": [
+    "byhand.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

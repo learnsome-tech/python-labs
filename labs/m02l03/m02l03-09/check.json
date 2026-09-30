@@ -1,0 +1,17 @@
+{
+  "lab": "m02l03-09",
+  "lesson": "m02l03",
+  "title": "The escape hatch: source, or pyenv",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-escape-hatch-source-or-pyenv.txt",
+  "files": [
+    "the-escape-hatch-source-or-pyenv.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

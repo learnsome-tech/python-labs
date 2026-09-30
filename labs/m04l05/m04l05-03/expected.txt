@@ -1,0 +1,3 @@
+SyntaxError: invalid syntax
+SyntaxError: invalid decimal literal
+SyntaxError: invalid syntax

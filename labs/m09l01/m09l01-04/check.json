@@ -1,0 +1,19 @@
+{
+  "lab": "m09l01-04",
+  "lesson": "m09l01",
+  "title": "Lower case, and the other case methods",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-lower-case-and-the-other-case-methods.py",
+  "main": "shell-lower-case-and-the-other-case-methods.py",
+  "files": [
+    "shell-lower-case-and-the-other-case-methods.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m09l04-08",
+  "lesson": "m09l04",
+  "title": "Further exploration of string methods",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "further-exploration-of-string-methods.txt",
+  "files": [
+    "further-exploration-of-string-methods.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

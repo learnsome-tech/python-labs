@@ -1,0 +1,17 @@
+{
+  "lab": "m02l01-07",
+  "lesson": "m02l01",
+  "title": "SmartScreen, and the permission prompt",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "smartscreen-and-the-permission-prompt.txt",
+  "files": [
+    "smartscreen-and-the-permission-prompt.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

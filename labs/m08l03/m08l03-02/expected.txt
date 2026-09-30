@@ -1,0 +1,6 @@
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'list'>
+<class 'dict'>
+<class 'NoneType'>

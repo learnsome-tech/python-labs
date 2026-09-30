@@ -1,0 +1,17 @@
+{
+  "lab": "m21l01-01",
+  "lesson": "m21l01",
+  "title": "The close line you will one day forget",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-close-line-you-will-one-day-forget.py",
+  "files": [
+    "the-close-line-you-will-one-day-forget.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m03l03-06",
+  "lesson": "m03l03",
+  "title": "Converting between numbers and text",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-converting-between-numbers-and-text.py",
+  "main": "shell-converting-between-numbers-and-text.py",
+  "files": [
+    "shell-converting-between-numbers-and-text.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

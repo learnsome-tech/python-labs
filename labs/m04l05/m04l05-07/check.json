@@ -1,0 +1,17 @@
+{
+  "lab": "m04l05-07",
+  "lesson": "m04l05",
+  "title": "Legal is not the same as good",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "legal-is-not-the-same-as-good.txt",
+  "files": [
+    "legal-is-not-the-same-as-good.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

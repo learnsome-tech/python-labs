@@ -1,0 +1,19 @@
+{
+  "lab": "m11l04-11",
+  "lesson": "m11l04",
+  "title": "A list, an alias and a clone",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-a-list-an-alias-and-a-clone.py",
+  "main": "shell-a-list-an-alias-and-a-clone.py",
+  "files": [
+    "shell-a-list-an-alias-and-a-clone.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

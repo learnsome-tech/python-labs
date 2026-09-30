@@ -1,0 +1,20 @@
+{
+  "lab": "m14l02-06",
+  "lesson": "m14l02",
+  "title": "readLines2.py, an empty line to quit",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 readLines2.py",
+  "main": "readLines2.py",
+  "files": [
+    "input.txt",
+    "readLines2.py"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

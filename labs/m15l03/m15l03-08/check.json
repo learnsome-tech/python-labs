@@ -1,0 +1,17 @@
+{
+  "lab": "m15l03-08",
+  "lesson": "m15l03",
+  "title": "Data arriving in the address itself",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "data-arriving-in-the-address-itself.txt",
+  "files": [
+    "data-arriving-in-the-address-itself.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

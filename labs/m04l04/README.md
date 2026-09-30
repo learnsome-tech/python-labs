@@ -1,26 +1,30 @@
-# Variables And Assignment
+# m04l04 · Variables And Assignment
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Data And Expressions  
-**Lesson**: `m04l04`
+Module 4: Data And Expressions · lesson 4.4 · Pro · [Open the lesson](https://learnsome.tech/learn/python-course/m04l04)
 
-## Links
+**Goal:** You can write assignment statements, explain why the right hand side is evaluated first, and tell a syntax error apart from a name error found while a line is running.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m04l04)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-4-4)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l04-02](m04l04-02/) | Assignment displays nothing | Graded |
+| [m04l04-03](m04l04-03/) | Building a calculation out of variables | Graded |
+| [m04l04-04](m04l04-04/) | The equal sign is an unfortunate choice | Read along |
+| [m04l04-05](m04l04-05/) | Reversed, it is a syntax error | Graded |
+| [m04l04-06](m04l04-06/) | Width is assigned width plus five | Graded |
+| [m04l04-07](m04l04-07/) | Assignment works the same way with strings | Graded |
+| [m04l04-08](m04l04-08/) | A name error, found while the line runs | Graded |
+| [m04l04-09](m04l04-09/) | Autocompletion, a handy short cut | Read along |
 
-- [`m04l04-02/`](m04l04-02/)
-- [`m04l04-03/`](m04l04-03/)
-- [`m04l04-04/`](m04l04-04/)
-- [`m04l04-05/`](m04l04-05/)
-- [`m04l04-06/`](m04l04-06/)
-- [`m04l04-07/`](m04l04-07/)
-- [`m04l04-08/`](m04l04-08/)
-- [`m04l04-09/`](m04l04-09/)
+## Check yourself
+
+- Why does the shell print nothing after an assignment statement?
+- Why is the number on the left of an equal sign a syntax error?
+- Explain, in order of events, what width is assigned width plus five does.
+- How does a name error differ from a syntax error, in terms of when it is found?
+- What does Idle do when you type a letter and press Alt and slash?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

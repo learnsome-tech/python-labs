@@ -1,0 +1,8 @@
+True
+False
+True
+True
+True
+False
+Traceback (most recent call last):
+TypeError: '>' not supported between instances of 'str' and 'int'

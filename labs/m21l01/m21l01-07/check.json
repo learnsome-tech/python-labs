@@ -1,0 +1,19 @@
+{
+  "lab": "m21l01-07",
+  "lesson": "m21l01",
+  "title": "Paths as objects, not glued together strings",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 pathParts.py",
+  "main": "pathParts.py",
+  "files": [
+    "pathParts.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

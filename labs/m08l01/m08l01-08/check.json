@@ -1,0 +1,19 @@
+{
+  "lab": "m08l01-08",
+  "lesson": "m08l01",
+  "title": "Floor division and remainder with floats",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-floor-division-and-remainder-with-floats.py",
+  "main": "shell-floor-division-and-remainder-with-floats.py",
+  "files": [
+    "shell-floor-division-and-remainder-with-floats.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

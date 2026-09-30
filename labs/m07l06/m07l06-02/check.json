@@ -1,0 +1,19 @@
+{
+  "lab": "m07l06-02",
+  "lesson": "m07l06",
+  "title": "A very natural mistake",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 numberEntriesWRONG.py",
+  "main": "numberEntriesWRONG.py",
+  "files": [
+    "numberEntriesWRONG.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

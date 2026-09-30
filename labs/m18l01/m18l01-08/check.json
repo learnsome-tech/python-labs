@@ -1,0 +1,19 @@
+{
+  "lab": "m18l01-08",
+  "lesson": "m18l01",
+  "title": "The trap: naming your file after a module",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 random.py",
+  "main": "random.py",
+  "files": [
+    "random.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

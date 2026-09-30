@@ -1,0 +1,19 @@
+{
+  "lab": "m07l01-02",
+  "lesson": "m07l01",
+  "title": "The program spanish1.py",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 spanish1.py",
+  "main": "spanish1.py",
+  "files": [
+    "spanish1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

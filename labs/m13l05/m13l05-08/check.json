@@ -1,0 +1,19 @@
+{
+  "lab": "m13l05-08",
+  "lesson": "m13l05",
+  "title": "Chained comparisons, and why one is not enough",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-chained-comparisons-and-why-one-is-not-enoug.py",
+  "main": "shell-chained-comparisons-and-why-one-is-not-enoug.py",
+  "files": [
+    "shell-chained-comparisons-and-why-one-is-not-enoug.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

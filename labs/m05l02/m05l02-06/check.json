@@ -1,0 +1,17 @@
+{
+  "lab": "m05l02-06",
+  "lesson": "m05l02",
+  "title": "How keyword parameters are written",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "how-keyword-parameters-are-written.py",
+  "files": [
+    "how-keyword-parameters-are-written.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

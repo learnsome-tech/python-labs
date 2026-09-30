@@ -1,0 +1,19 @@
+{
+  "lab": "m09l03-02",
+  "lesson": "m09l03",
+  "title": "The first slices",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-first-slices.py",
+  "main": "shell-the-first-slices.py",
+  "files": [
+    "shell-the-first-slices.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

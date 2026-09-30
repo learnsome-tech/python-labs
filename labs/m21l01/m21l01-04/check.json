@@ -1,0 +1,19 @@
+{
+  "lab": "m21l01-04",
+  "lesson": "m21l01",
+  "title": "All at once, or one line at a time",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 lineByLine.py",
+  "main": "lineByLine.py",
+  "files": [
+    "lineByLine.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

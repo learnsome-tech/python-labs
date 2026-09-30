@@ -1,0 +1,19 @@
+{
+  "lab": "m13l02-06",
+  "lesson": "m13l02",
+  "title": "Comparing strings, lists and floats",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-comparing-strings-lists-and-floats.py",
+  "main": "shell-comparing-strings-lists-and-floats.py",
+  "files": [
+    "shell-comparing-strings-lists-and-floats.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

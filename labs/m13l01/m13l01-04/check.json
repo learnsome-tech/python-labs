@@ -1,0 +1,19 @@
+{
+  "lab": "m13l01-04",
+  "lesson": "m13l01",
+  "title": "Proving the difference in the shell",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-proving-the-difference-in-the-shell.py",
+  "main": "shell-proving-the-difference-in-the-shell.py",
+  "files": [
+    "shell-proving-the-difference-in-the-shell.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

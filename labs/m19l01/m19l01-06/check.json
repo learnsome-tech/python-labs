@@ -1,0 +1,19 @@
+{
+  "lab": "m19l01-06",
+  "lesson": "m19l01",
+  "title": "Why a tuple can be a key and a list cannot",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-why-a-tuple-can-be-a-key-and-a-list-cannot.py",
+  "main": "shell-why-a-tuple-can-be-a-key-and-a-list-cannot.py",
+  "files": [
+    "shell-why-a-tuple-can-be-a-key-and-a-list-cannot.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

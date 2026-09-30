@@ -1,0 +1,17 @@
+{
+  "lab": "m18l02-04",
+  "lesson": "m18l02",
+  "title": "A module that imports its neighbour",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "report.py",
+  "files": [
+    "report.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

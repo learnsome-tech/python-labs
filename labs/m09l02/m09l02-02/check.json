@@ -1,0 +1,19 @@
+{
+  "lab": "m09l02-02",
+  "lesson": "m09l02",
+  "title": "Indexing computer, and one index too far",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-indexing-computer-and-one-index-too-far.py",
+  "main": "shell-indexing-computer-and-one-index-too-far.py",
+  "files": [
+    "shell-indexing-computer-and-one-index-too-far.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

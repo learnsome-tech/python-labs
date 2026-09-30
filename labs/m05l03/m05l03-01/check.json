@@ -1,0 +1,17 @@
+{
+  "lab": "m05l03-01",
+  "lesson": "m05l03",
+  "title": "Fill in the braces",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "fill-in-the-braces.txt",
+  "files": [
+    "fill-in-the-braces.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

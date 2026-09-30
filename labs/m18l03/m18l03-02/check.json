@@ -1,0 +1,17 @@
+{
+  "lab": "m18l03-02",
+  "lesson": "m18l03",
+  "title": "Making one, and what is inside it",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "making-one-and-what-is-inside-it.txt",
+  "files": [
+    "making-one-and-what-is-inside-it.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

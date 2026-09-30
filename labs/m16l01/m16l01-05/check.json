@@ -1,0 +1,20 @@
+{
+  "lab": "m16l01-05",
+  "lesson": "m16l01",
+  "title": "Now it runs, and now it fails",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 fixMyCode.py",
+  "main": "fixMyCode.py",
+  "files": [
+    "fixMyCode.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

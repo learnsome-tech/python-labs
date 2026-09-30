@@ -1,0 +1,19 @@
+{
+  "lab": "m20l04-03",
+  "lesson": "m20l04",
+  "title": "__repr__ for the programmer, __str__ for the reader",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 pointRepr.py",
+  "main": "pointRepr.py",
+  "files": [
+    "pointRepr.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m07l07-08",
+  "lesson": "m07l07",
+  "title": "sep and end in the shell",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-sep-and-end-in-the-shell.py",
+  "main": "shell-sep-and-end-in-the-shell.py",
+  "files": [
+    "shell-sep-and-end-in-the-shell.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

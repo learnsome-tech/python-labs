@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-09",
+  "lesson": "m14l01",
+  "title": "Counting down to blastoff",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 countdown.py",
+  "main": "countdown.py",
+  "files": [
+    "countdown.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

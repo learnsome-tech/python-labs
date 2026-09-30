@@ -1,0 +1,19 @@
+{
+  "lab": "m13l06-02",
+  "lesson": "m13l06",
+  "title": "startswith and endswith",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-startswith-and-endswith.py",
+  "main": "shell-startswith-and-endswith.py",
+  "files": [
+    "shell-startswith-and-endswith.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

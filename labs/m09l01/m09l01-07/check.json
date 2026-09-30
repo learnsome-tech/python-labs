@@ -1,0 +1,17 @@
+{
+  "lab": "m09l01-07",
+  "lesson": "m09l01",
+  "title": "Seeing every method a string has",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "seeing-every-method-a-string-has.txt",
+  "files": [
+    "seeing-every-method-a-string-has.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

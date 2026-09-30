@@ -1,0 +1,19 @@
+{
+  "lab": "m18l01-05",
+  "lesson": "m18l01",
+  "title": "The main guard",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 greetings.py",
+  "main": "greetings.py",
+  "files": [
+    "greetings.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

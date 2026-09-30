@@ -1,0 +1,17 @@
+{
+  "lab": "m06l02-06",
+  "lesson": "m06l02",
+  "title": "One line to do it all again",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "one-line-to-do-it-all-again.txt",
+  "files": [
+    "one-line-to-do-it-all-again.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

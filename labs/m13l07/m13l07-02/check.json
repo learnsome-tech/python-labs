@@ -1,0 +1,19 @@
+{
+  "lab": "m13l07-02",
+  "lesson": "m13l07",
+  "title": "Indexing works, assignment does not",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-indexing-works-assignment-does-not.py",
+  "main": "shell-indexing-works-assignment-does-not.py",
+  "files": [
+    "shell-indexing-works-assignment-does-not.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

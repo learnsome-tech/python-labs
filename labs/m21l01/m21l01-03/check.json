@@ -1,0 +1,19 @@
+{
+  "lab": "m21l01-03",
+  "lesson": "m21l01",
+  "title": "It closes even when the block goes wrong",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 safeWrite.py",
+  "main": "safeWrite.py",
+  "files": [
+    "safeWrite.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,9 +1,0 @@
-Initialized empty Git repository in /tmp/wordcount/.git/
-?? .gitignore
-?? pyproject.toml
-?? sample.txt
-?? src/
-?? wordcount.py
-[main (root-commit) 1204d79] Word counter: first working version
- 6 files changed, 35 insertions(+)
-1204d79 Word counter: first working version

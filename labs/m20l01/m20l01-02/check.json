@@ -1,0 +1,19 @@
+{
+  "lab": "m20l01-02",
+  "lesson": "m20l01",
+  "title": "A first class, and a first instance",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dog1.py",
+  "main": "dog1.py",
+  "files": [
+    "dog1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

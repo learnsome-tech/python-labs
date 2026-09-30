@@ -1,0 +1,19 @@
+{
+  "lab": "m09l01-02",
+  "lesson": "m09l01",
+  "title": "A string knows how to shout",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-a-string-knows-how-to-shout.py",
+  "main": "shell-a-string-knows-how-to-shout.py",
+  "files": [
+    "shell-a-string-knows-how-to-shout.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

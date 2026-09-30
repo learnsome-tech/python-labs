@@ -1,0 +1,20 @@
+{
+  "lab": "m18l01-04",
+  "lesson": "m18l01",
+  "title": "Importing runs the file, and only once",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 importdemo.py",
+  "main": "importdemo.py",
+  "files": [
+    "importdemo.py",
+    "mathfunc.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m02l03-07",
+  "lesson": "m02l03",
+  "title": "Am I inside a virtual environment?",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 venvcheck.py",
+  "main": "venvcheck.py",
+  "files": [
+    "venvcheck.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-07",
+  "lesson": "m04l04",
+  "title": "Assignment works the same way with strings",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-assignment-works-the-same-way-with-strings.py",
+  "main": "shell-assignment-works-the-same-way-with-strings.py",
+  "files": [
+    "shell-assignment-works-the-same-way-with-strings.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

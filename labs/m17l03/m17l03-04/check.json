@@ -1,0 +1,19 @@
+{
+  "lab": "m17l03-04",
+  "lesson": "m17l03",
+  "title": "When the bottom frame is not your code",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 meanscores.py",
+  "main": "meanscores.py",
+  "files": [
+    "meanscores.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

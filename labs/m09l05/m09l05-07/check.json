@@ -1,0 +1,17 @@
+{
+  "lab": "m09l05-07",
+  "lesson": "m09l05",
+  "title": "Sets remove repetitions",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "sets-remove-repetitions.py",
+  "files": [
+    "sets-remove-repetitions.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

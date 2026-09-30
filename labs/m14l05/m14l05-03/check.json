@@ -1,0 +1,17 @@
+{
+  "lab": "m14l05-03",
+  "lesson": "m14l05",
+  "title": "The three shapes of an if statement",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-three-shapes-of-an-if-statement.txt",
+  "files": [
+    "the-three-shapes-of-an-if-statement.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

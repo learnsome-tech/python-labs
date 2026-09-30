@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-09",
+  "lesson": "m08l03",
+  "title": "Dictionaries",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-dictionaries.py",
+  "main": "shell-dictionaries.py",
+  "files": [
+    "shell-dictionaries.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

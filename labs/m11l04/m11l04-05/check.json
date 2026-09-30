@@ -1,0 +1,19 @@
+{
+  "lab": "m11l04-05",
+  "lesson": "m11l04",
+  "title": "Two names, one object",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-two-names-one-object.py",
+  "main": "shell-two-names-one-object.py",
+  "files": [
+    "shell-two-names-one-object.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

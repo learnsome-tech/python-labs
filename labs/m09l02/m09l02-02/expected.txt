@@ -1,0 +1,5 @@
+'c'
+'t'
+Traceback (most recent call last):
+IndexError: string index out of range
+8

@@ -1,0 +1,19 @@
+{
+  "lab": "m22l02-04",
+  "lesson": "m22l02",
+  "title": "Nothing checks them while the program runs",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 double.py",
+  "main": "double.py",
+  "files": [
+    "double.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

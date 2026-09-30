@@ -1,0 +1,19 @@
+{
+  "lab": "m19l02-07",
+  "lesson": "m19l02",
+  "title": "Generator expressions: the lazy form",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-generator-expressions-the-lazy-form.py",
+  "main": "shell-generator-expressions-the-lazy-form.py",
+  "files": [
+    "shell-generator-expressions-the-lazy-form.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

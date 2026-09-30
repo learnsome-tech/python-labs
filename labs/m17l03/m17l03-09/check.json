@@ -1,0 +1,17 @@
+{
+  "lab": "m17l03-09",
+  "lesson": "m17l03",
+  "title": "What each one usually means in practice",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "what-each-one-usually-means-in-practice.txt",
+  "files": [
+    "what-each-one-usually-means-in-practice.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

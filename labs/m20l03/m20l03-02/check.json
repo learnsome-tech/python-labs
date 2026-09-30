@@ -1,0 +1,19 @@
+{
+  "lab": "m20l03-02",
+  "lesson": "m20l03",
+  "title": "Subclassing, and overriding a method",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 animalSpeak.py",
+  "main": "animalSpeak.py",
+  "files": [
+    "animalSpeak.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

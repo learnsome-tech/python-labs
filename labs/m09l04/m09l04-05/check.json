@@ -1,0 +1,19 @@
+{
+  "lab": "m09l04-05",
+  "lesson": "m09l04",
+  "title": "Joining with four different separators",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-joining-with-four-different-separators.py",
+  "main": "shell-joining-with-four-different-separators.py",
+  "files": [
+    "shell-joining-with-four-different-separators.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

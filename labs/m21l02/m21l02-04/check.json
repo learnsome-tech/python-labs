@@ -1,0 +1,19 @@
+{
+  "lab": "m21l02-04",
+  "lesson": "m21l02",
+  "title": "Straight to a file, and straight back",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 jsonFile.py",
+  "main": "jsonFile.py",
+  "files": [
+    "jsonFile.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

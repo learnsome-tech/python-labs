@@ -1,0 +1,19 @@
+{
+  "lab": "m17l01-05",
+  "lesson": "m17l01",
+  "title": "What a bare except costs you",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bareexcept.py",
+  "main": "bareexcept.py",
+  "files": [
+    "bareexcept.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

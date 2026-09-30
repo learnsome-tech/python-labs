@@ -1,0 +1,19 @@
+{
+  "lab": "m20l04-06",
+  "lesson": "m20l04",
+  "title": "Putting __hash__ back, consistently",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 pointHash.py",
+  "main": "pointHash.py",
+  "files": [
+    "pointHash.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

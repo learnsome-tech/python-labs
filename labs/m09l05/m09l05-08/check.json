@@ -1,0 +1,19 @@
+{
+  "lab": "m09l05-08",
+  "lesson": "m09l05",
+  "title": "Making a set, and predicting its size",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-making-a-set-and-predicting-its-size.py",
+  "main": "shell-making-a-set-and-predicting-its-size.py",
+  "files": [
+    "shell-making-a-set-and-predicting-its-size.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

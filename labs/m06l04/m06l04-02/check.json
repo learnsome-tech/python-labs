@@ -1,0 +1,20 @@
+{
+  "lab": "m06l04-02",
+  "lesson": "m06l04",
+  "title": "Two parameters, three calls",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 addition5.py",
+  "main": "addition5.py",
+  "files": [
+    "addition5.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

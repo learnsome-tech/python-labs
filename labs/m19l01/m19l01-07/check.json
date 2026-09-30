@@ -1,0 +1,19 @@
+{
+  "lab": "m19l01-07",
+  "lesson": "m19l01",
+  "title": "Nesting them inside each other",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 people.py",
+  "main": "people.py",
+  "files": [
+    "people.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

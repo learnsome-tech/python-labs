@@ -1,0 +1,17 @@
+{
+  "lab": "m20l01-01",
+  "lesson": "m20l01",
+  "title": "Where every value you have used came from",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "where-every-value-you-have-used-came-from.py",
+  "files": [
+    "where-every-value-you-have-used-came-from.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

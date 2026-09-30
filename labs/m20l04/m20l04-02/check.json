@@ -1,0 +1,19 @@
+{
+  "lab": "m20l04-02",
+  "lesson": "m20l04",
+  "title": "You have been calling dunder methods all along",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-you-have-been-calling-dunder-methods-all-alo.py",
+  "main": "shell-you-have-been-calling-dunder-methods-all-alo.py",
+  "files": [
+    "shell-you-have-been-calling-dunder-methods-all-alo.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

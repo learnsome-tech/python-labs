@@ -1,0 +1,17 @@
+{
+  "lab": "m12l02-05",
+  "lesson": "m12l02",
+  "title": "Split and join",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "split-and-join.txt",
+  "files": [
+    "split-and-join.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

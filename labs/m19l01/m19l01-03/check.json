@@ -1,0 +1,19 @@
+{
+  "lab": "m19l01-03",
+  "lesson": "m19l01",
+  "title": "Which of them will change under you",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-which-of-them-will-change-under-you.py",
+  "main": "shell-which-of-them-will-change-under-you.py",
+  "files": [
+    "shell-which-of-them-will-change-under-you.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

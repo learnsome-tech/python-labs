@@ -1,0 +1,19 @@
+{
+  "lab": "m09l04-03",
+  "lesson": "m09l04",
+  "title": "Predicting split with different separators",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-predicting-split-with-different-separators.py",
+  "main": "shell-predicting-split-with-different-separators.py",
+  "files": [
+    "shell-predicting-split-with-different-separators.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

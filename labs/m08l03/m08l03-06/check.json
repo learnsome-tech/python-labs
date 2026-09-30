@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-06",
+  "lesson": "m08l03",
+  "title": "The string format method",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-string-format-method.py",
+  "main": "shell-the-string-format-method.py",
+  "files": [
+    "shell-the-string-format-method.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

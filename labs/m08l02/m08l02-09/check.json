@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-09",
+  "lesson": "m08l02",
+  "title": "Twenty digits of the truth",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-twenty-digits-of-the-truth.py",
+  "main": "shell-twenty-digits-of-the-truth.py",
+  "files": [
+    "shell-twenty-digits-of-the-truth.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

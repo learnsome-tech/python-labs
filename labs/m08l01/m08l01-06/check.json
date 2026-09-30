@@ -1,0 +1,19 @@
+{
+  "lab": "m08l01-06",
+  "lesson": "m08l01",
+  "title": "Mixing integers and floats",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-mixing-integers-and-floats.py",
+  "main": "shell-mixing-integers-and-floats.py",
+  "files": [
+    "shell-mixing-integers-and-floats.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

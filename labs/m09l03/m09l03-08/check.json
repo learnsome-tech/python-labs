@@ -1,0 +1,19 @@
+{
+  "lab": "m09l03-08",
+  "lesson": "m09l03",
+  "title": "Predicting find on a short line",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-predicting-find-on-a-short-line.py",
+  "main": "shell-predicting-find-on-a-short-line.py",
+  "files": [
+    "shell-predicting-find-on-a-short-line.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

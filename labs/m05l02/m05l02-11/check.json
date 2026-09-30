@@ -1,0 +1,20 @@
+{
+  "lab": "m05l02-11",
+  "lesson": "m05l02",
+  "title": "Input, calculate, output",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 addition4.py",
+  "main": "addition4.py",
+  "files": [
+    "addition4.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m19l04-07",
+  "lesson": "m19l04",
+  "title": "An iterator is good for one pass",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 exhaust.py",
+  "main": "exhaust.py",
+  "files": [
+    "exhaust.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m04l01-06",
+  "lesson": "m04l01",
+  "title": "An unfinished parenthesis, and the continuation line",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "shell-an-unfinished-parenthesis-and-the-continuati.py",
+  "files": [
+    "shell-an-unfinished-parenthesis-and-the-continuati.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

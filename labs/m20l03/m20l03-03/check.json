@@ -1,0 +1,19 @@
+{
+  "lab": "m20l03-03",
+  "lesson": "m20l03",
+  "title": "super, in the initialiser and in a method",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 manager.py",
+  "main": "manager.py",
+  "files": [
+    "manager.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m09l03-09",
+  "lesson": "m09l03",
+  "title": "Reading the documentation from the shell",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "reading-the-documentation-from-the-shell.txt",
+  "files": [
+    "reading-the-documentation-from-the-shell.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

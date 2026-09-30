@@ -1,0 +1,20 @@
+{
+  "lab": "m05l02-03",
+  "lesson": "m05l02",
+  "title": "Three inputs in sequence",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 interview.py",
+  "main": "interview.py",
+  "files": [
+    "input.txt",
+    "interview.py"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

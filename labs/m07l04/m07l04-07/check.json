@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-07",
+  "lesson": "m07l04",
+  "title": "First attempt: right once, then stuck",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 numberEntries1.py",
+  "main": "numberEntries1.py",
+  "files": [
+    "numberEntries1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

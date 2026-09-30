@@ -1,0 +1,19 @@
+{
+  "lab": "m19l04-06",
+  "lesson": "m19l04",
+  "title": "Things that were lazy all along",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-things-that-were-lazy-all-along.py",
+  "main": "shell-things-that-were-lazy-all-along.py",
+  "files": [
+    "shell-things-that-were-lazy-all-along.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m19l04-05",
+  "lesson": "m19l04",
+  "title": "Why it uses no memory",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 memory.py",
+  "main": "memory.py",
+  "files": [
+    "memory.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

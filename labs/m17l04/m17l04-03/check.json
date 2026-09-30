@@ -1,0 +1,19 @@
+{
+  "lab": "m17l04-03",
+  "lesson": "m17l04",
+  "title": "Printing, done properly",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 runmaxprint.py",
+  "main": "runmaxprint.py",
+  "files": [
+    "runmaxprint.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

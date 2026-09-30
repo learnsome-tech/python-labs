@@ -1,0 +1,19 @@
+{
+  "lab": "m21l03-04",
+  "lesson": "m21l03",
+  "title": "Printing and parsing: strftime and strptime",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dateFormat.py",
+  "main": "dateFormat.py",
+  "files": [
+    "dateFormat.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

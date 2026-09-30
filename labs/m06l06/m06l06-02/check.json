@@ -1,0 +1,19 @@
+{
+  "lab": "m06l06-02",
+  "lesson": "m06l06",
+  "title": "A local name that will not travel",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 badScope.py",
+  "main": "badScope.py",
+  "files": [
+    "badScope.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

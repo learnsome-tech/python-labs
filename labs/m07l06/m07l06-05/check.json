@@ -1,0 +1,17 @@
+{
+  "lab": "m07l06-05",
+  "lesson": "m07l06",
+  "title": "The table for a call inside a call",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-table-for-a-call-inside-a-call.txt",
+  "files": [
+    "the-table-for-a-call-inside-a-call.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

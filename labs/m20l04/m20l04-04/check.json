@@ -1,0 +1,17 @@
+{
+  "lab": "m20l04-04",
+  "lesson": "m20l04",
+  "title": "Why every class needs at least a repr",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "why-every-class-needs-at-least-a-repr.txt",
+  "files": [
+    "why-every-class-needs-at-least-a-repr.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

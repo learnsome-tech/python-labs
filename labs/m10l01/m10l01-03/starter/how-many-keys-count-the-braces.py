@@ -1,0 +1,3 @@
+repetitions = formatString.count('{')
+for i in range(repetitions):
+    ...

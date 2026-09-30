@@ -1,0 +1,19 @@
+{
+  "lab": "m21l03-03",
+  "lesson": "m21l03",
+  "title": "Building dates and doing arithmetic",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-building-dates-and-doing-arithmetic.py",
+  "main": "shell-building-dates-and-doing-arithmetic.py",
+  "files": [
+    "shell-building-dates-and-doing-arithmetic.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

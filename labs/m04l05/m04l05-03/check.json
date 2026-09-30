@@ -1,0 +1,19 @@
+{
+  "lab": "m04l05-03",
+  "lesson": "m04l05",
+  "title": "Three names Python refuses",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-three-names-python-refuses.py",
+  "main": "shell-three-names-python-refuses.py",
+  "files": [
+    "shell-three-names-python-refuses.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m02l05-07",
+  "lesson": "m02l05",
+  "title": "Symptom two: install it from the Microsoft Store",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "symptom-two-install-it-from-the-microsoft-st.txt",
+  "files": [
+    "symptom-two-install-it-from-the-microsoft-st.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

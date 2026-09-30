@@ -1,0 +1,19 @@
+{
+  "lab": "m21l02-06",
+  "lesson": "m21l02",
+  "title": "DictReader, and why you do not split yourself",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 csvDict.py",
+  "main": "csvDict.py",
+  "files": [
+    "csvDict.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m02l05-11",
+  "lesson": "m02l05",
+  "title": "Fixing a missing tkinter",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "fixing-a-missing-tkinter.txt",
+  "files": [
+    "fixing-a-missing-tkinter.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

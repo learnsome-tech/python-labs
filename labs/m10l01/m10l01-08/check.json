@@ -1,0 +1,17 @@
+{
+  "lab": "m10l01-08",
+  "lesson": "m10l01",
+  "title": "The finished cue finder",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "testGetKeys.py",
+  "files": [
+    "testGetKeys.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

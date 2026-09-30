@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-05",
+  "lesson": "m04l03",
+  "title": "Concatenation, and repetition",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-concatenation-and-repetition.py",
+  "main": "shell-concatenation-and-repetition.py",
+  "files": [
+    "shell-concatenation-and-repetition.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

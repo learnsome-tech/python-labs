@@ -1,0 +1,10 @@
+with open('shopping.txt', 'w') as out:
+    out.write('bread\nmilk\napples\n')
+
+with open('shopping.txt') as f:
+    whole = f.read()
+print(len(whole), whole.count('\n'))
+
+with open('shopping.txt') as f:
+    for number, line in enumerate(f, start=1):
+        print(number, line.strip())

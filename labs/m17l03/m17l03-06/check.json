@@ -1,0 +1,20 @@
+{
+  "lab": "m17l03-06",
+  "lesson": "m17l03",
+  "title": "A syntax error arrives before anything runs",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 badsyntax.py",
+  "main": "badsyntax.py",
+  "files": [
+    "badsyntax.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "syntax": false,
+  "note": null
+}

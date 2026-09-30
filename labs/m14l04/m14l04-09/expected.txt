@@ -1,0 +1,6 @@
+True
+'yes'
+'yes'
+False
+'no'
+'yes'

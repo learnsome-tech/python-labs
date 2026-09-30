@@ -1,0 +1,2 @@
+'word: Joe, int: 23, formatted float: 2.136.'
+'word: Joe, int: 23, formatted float: 2.136.'

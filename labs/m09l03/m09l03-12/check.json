@@ -1,0 +1,19 @@
+{
+  "lab": "m09l03-12",
+  "lesson": "m09l03",
+  "title": "The example program index1.py",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 index1.py",
+  "main": "index1.py",
+  "files": [
+    "index1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,4 @@
+['Fig', 'banana', 'kiwi', 'pear']
+['pear', 'Fig', 'banana', 'kiwi']
+['Fig', 'banana', 'kiwi', 'pear']
+None

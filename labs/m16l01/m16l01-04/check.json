@@ -1,0 +1,20 @@
+{
+  "lab": "m16l01-04",
+  "lesson": "m16l01",
+  "title": "One error fixed, the next one named",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 fixMyCode.py",
+  "main": "fixMyCode.py",
+  "files": [
+    "fixMyCode.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "syntax": false,
+  "note": null
+}

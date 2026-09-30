@@ -1,0 +1,19 @@
+{
+  "lab": "m14l04-06",
+  "lesson": "m14l04",
+  "title": "A condition that looks right and is wrong",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 boolConfusion.py",
+  "main": "boolConfusion.py",
+  "files": [
+    "boolConfusion.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

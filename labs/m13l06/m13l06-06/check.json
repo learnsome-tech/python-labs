@@ -1,0 +1,17 @@
+{
+  "lab": "m13l06-06",
+  "lesson": "m13l06",
+  "title": "Putting them into conditions",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "putting-them-into-conditions.py",
+  "files": [
+    "putting-them-into-conditions.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

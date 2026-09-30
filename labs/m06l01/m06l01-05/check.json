@@ -1,0 +1,17 @@
+{
+  "lab": "m06l01-05",
+  "lesson": "m06l01",
+  "title": "The Shell remembers, and parentheses matter",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "shell-the-shell-remembers-and-parentheses-matter.py",
+  "files": [
+    "shell-the-shell-remembers-and-parentheses-matter.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

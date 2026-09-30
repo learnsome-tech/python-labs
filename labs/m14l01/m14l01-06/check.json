@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-06",
+  "lesson": "m14l01",
+  "title": "testWhile3.py, collecting the numbers",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 testWhile3.py",
+  "main": "testWhile3.py",
+  "files": [
+    "testWhile3.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

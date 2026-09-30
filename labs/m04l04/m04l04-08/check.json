@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-08",
+  "lesson": "m04l04",
+  "title": "A name error, found while the line runs",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-a-name-error-found-while-the-line-runs.py",
+  "main": "shell-a-name-error-found-while-the-line-runs.py",
+  "files": [
+    "shell-a-name-error-found-while-the-line-runs.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m14l05-11",
+  "lesson": "m14l05",
+  "title": "Techniques: cutting a loop, and checkMouse",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "techniques-cutting-a-loop-and-checkmouse.txt",
+  "files": [
+    "techniques-cutting-a-loop-and-checkmouse.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

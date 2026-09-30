@@ -1,0 +1,19 @@
+{
+  "lab": "m12l01-06",
+  "lesson": "m12l01",
+  "title": "Say it with a newline code",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 revisedFile.py",
+  "main": "revisedFile.py",
+  "files": [
+    "revisedFile.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m22l01-02",
+  "lesson": "m22l01",
+  "title": "The function we are going to test",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 pricing.py",
+  "main": "pricing.py",
+  "files": [
+    "pricing.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m08l01-04",
+  "lesson": "m08l01",
+  "title": "Ask Python which type you have",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-ask-python-which-type-you-have.py",
+  "main": "shell-ask-python-which-type-you-have.py",
+  "files": [
+    "shell-ask-python-which-type-you-have.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

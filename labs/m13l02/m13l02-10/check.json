@@ -1,0 +1,19 @@
+{
+  "lab": "m13l02-10",
+  "lesson": "m13l02",
+  "title": "The in and not in operators",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-in-and-not-in-operators.py",
+  "main": "shell-the-in-and-not-in-operators.py",
+  "files": [
+    "shell-the-in-and-not-in-operators.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

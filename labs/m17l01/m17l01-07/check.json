@@ -1,0 +1,19 @@
+{
+  "lab": "m17l01-07",
+  "lesson": "m17l01",
+  "title": "Several except clauses, several problems",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 twoproblems.py",
+  "main": "twoproblems.py",
+  "files": [
+    "twoproblems.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m14l04-09",
+  "lesson": "m14l04",
+  "title": "What or and and actually hand back",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-what-or-and-and-actually-hand-back.py",
+  "main": "shell-what-or-and-and-actually-hand-back.py",
+  "files": [
+    "shell-what-or-and-and-actually-hand-back.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

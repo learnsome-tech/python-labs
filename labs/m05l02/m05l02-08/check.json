@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-08",
+  "lesson": "m05l02",
+  "title": "A string of digits is not a number",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-a-string-of-digits-is-not-a-number.py",
+  "main": "shell-a-string-of-digits-is-not-a-number.py",
+  "files": [
+    "shell-a-string-of-digits-is-not-a-number.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

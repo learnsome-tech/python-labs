@@ -1,0 +1,17 @@
+{
+  "lab": "m02l02-01",
+  "lesson": "m02l02",
+  "title": "The python3 your Mac already has",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-python3-your-mac-already-has.txt",
+  "files": [
+    "the-python3-your-mac-already-has.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m17l03-02",
+  "lesson": "m17l03",
+  "title": "Four frames, from four real calls",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 rowreport.py",
+  "main": "rowreport.py",
+  "files": [
+    "rowreport.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m02l05-09",
+  "lesson": "m02l05",
+  "title": "Symptom four: instructions written for Python two",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 oldprint.py",
+  "main": "oldprint.py",
+  "files": [
+    "oldprint.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "syntax": false,
+  "note": null
+}

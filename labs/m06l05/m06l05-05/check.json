@@ -1,0 +1,19 @@
+{
+  "lab": "m06l05-05",
+  "lesson": "m06l05",
+  "title": "Printing is not returning",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-printing-is-not-returning.py",
+  "main": "shell-printing-is-not-returning.py",
+  "files": [
+    "shell-printing-is-not-returning.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

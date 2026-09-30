@@ -1,0 +1,19 @@
+{
+  "lab": "m17l02-02",
+  "lesson": "m17l02",
+  "title": "raise, with a built-in exception and a message",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 setage.py",
+  "main": "setage.py",
+  "files": [
+    "setage.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

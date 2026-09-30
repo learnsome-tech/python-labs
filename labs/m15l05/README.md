@@ -1,21 +1,38 @@
-# Chapter Four In One Sitting
+# m15l05 · Chapter Four In One Sitting
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Dynamic Web Pages  
-**Lesson**: `m15l05`
+Module 15: Dynamic Web Pages · lesson 15.5 · Pro · [Open the lesson](https://learnsome.tech/learn/python-course/m15l05)
 
-## Links
+**Goal:** You can recite the order of work for building a dynamic web page, and say what each piece of markup, each cgi module call and each error location is for.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m15l05)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-15-5)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m15l05-04](m15l05-04/) | Markup, tags and attributes | Read along |
+| [m15l05-05](m15l05-05/) | Python and HTML together | Read along |
+| [m15l05-07](m15l05-07/) | The cgi module, in three lines | Read along |
 
-- [`m15l05-04/`](m15l05-04/)
-- [`m15l05-05/`](m15l05-05/)
-- [`m15l05-07/`](m15l05-07/)
+## Exercises
+
+Open exercises from the lesson, to try on your own. They have no answer files: work them out, and use the labs above as reference.
+
+### Make one of your own
+
+1. Invent a small dynamic page of your own with two or three inputs
+2. Build the form first with the dump script, then the processing function in Idle
+3. Join them with the cgi skeleton and an output template of your own
+4. Test it through localhost, and deliberately break it once to see the traceback
+
+> **Hint:** A tip calculator, a unit converter or a name badge maker are all big enough and small enough.
+
+## Check yourself
+
+- Why write and test the processing function before making it a server script?
+- What does the action attribute of a form have to be changed to, and when?
+- Which function opens a file or address in your default browser?
+- When would you use getlist rather than getfirst?
+- You get nothing back in the browser at all. What three things do you check?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

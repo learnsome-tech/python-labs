@@ -1,0 +1,17 @@
+{
+  "lab": "m12l01-07",
+  "lesson": "m12l01",
+  "title": "Reading a whole file back",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "printFile.py",
+  "files": [
+    "printFile.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

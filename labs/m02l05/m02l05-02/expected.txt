@@ -1,0 +1,4 @@
+42
+Hello from the shell
+Hello, Ada
+(3, 14)

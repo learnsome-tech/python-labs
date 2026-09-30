@@ -1,0 +1,20 @@
+{
+  "lab": "m07l02-09",
+  "lesson": "m07l02",
+  "title": "hello_you4.py, with a dictionary reference",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hello_you4.py",
+  "main": "hello_you4.py",
+  "files": [
+    "hello_you4.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

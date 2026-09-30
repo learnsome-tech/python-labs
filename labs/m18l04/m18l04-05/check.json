@@ -1,0 +1,17 @@
+{
+  "lab": "m18l04-05",
+  "lesson": "m18l04",
+  "title": "Pinning, and the requirements file",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "pinning-and-the-requirements-file.py",
+  "files": [
+    "pinning-and-the-requirements-file.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

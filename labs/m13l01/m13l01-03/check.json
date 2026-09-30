@@ -1,0 +1,17 @@
+{
+  "lab": "m13l01-03",
+  "lesson": "m13l01",
+  "title": "True and False wear no quotes",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "true-and-false-wear-no-quotes.txt",
+  "files": [
+    "true-and-false-wear-no-quotes.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

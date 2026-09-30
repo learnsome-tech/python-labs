@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-11",
+  "lesson": "m07l03",
+  "title": "types1.py, five lines that beg for a loop",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 types1.py",
+  "main": "types1.py",
+  "files": [
+    "types1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

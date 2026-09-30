@@ -1,23 +1,26 @@
-# Integer Arithmetic And Precedence
+# m04l01 · Integer Arithmetic And Precedence
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Data And Expressions  
-**Lesson**: `m04l01`
+Module 4: Data And Expressions · lesson 4.1 · Pro · [Open the lesson](https://learnsome.tech/learn/python-course/m04l01)
 
-## Links
+**Goal:** You can evaluate integer arithmetic at the Python shell, predict the result from the normal rules of precedence, and recognise a continuation line when a parenthesis is left open.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m04l01)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-4-1)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l01-02](m04l01-02/) | Type it and press Enter | Graded |
+| [m04l01-04](m04l01-04/) | Python does not use x for multiplication | Graded |
+| [m04l01-05](m04l01-05/) | Precedence, and parentheses to override it | Graded |
+| [m04l01-06](m04l01-06/) | An unfinished parenthesis, and the continuation line | Read along |
+| [m04l01-07](m04l01-07/) | Negation | Graded |
 
-- [`m04l01-02/`](m04l01-02/)
-- [`m04l01-04/`](m04l01-04/)
-- [`m04l01-05/`](m04l01-05/)
-- [`m04l01-06/`](m04l01-06/)
-- [`m04l01-07/`](m04l01-07/)
+## Check yourself
+
+- Why does Python refuse to use x as the multiplication symbol?
+- What does two plus three times four evaluate to, and why is it not twenty?
+- You press Enter and get neither an answer nor a new prompt. What has happened?
+- What are the two different jobs the minus sign can do?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

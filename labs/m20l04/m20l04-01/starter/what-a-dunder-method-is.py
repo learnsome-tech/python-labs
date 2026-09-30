@@ -1,0 +1,5 @@
+len(x)      calls  x.__len__()
+x + y       calls  x.__add__(y)
+x == y      calls  x.__eq__(y)
+print(x)    calls  x.__str__()
+repr(x)     calls  x.__repr__()

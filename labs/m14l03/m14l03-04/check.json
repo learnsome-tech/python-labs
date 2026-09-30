@@ -1,0 +1,17 @@
+{
+  "lab": "m14l03-04",
+  "lesson": "m14l03",
+  "title": "The last undraw, and how to cancel it",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-last-undraw-and-how-to-cancel-it.txt",
+  "files": [
+    "the-last-undraw-and-how-to-cancel-it.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

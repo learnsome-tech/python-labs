@@ -1,0 +1,17 @@
+{
+  "lab": "m11l07-09",
+  "lesson": "m11l07",
+  "title": "One function for a labelled entry",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "addEntries2.py",
+  "files": [
+    "addEntries2.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

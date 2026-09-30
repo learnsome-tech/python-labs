@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-08",
+  "lesson": "m06l03",
+  "title": "Reading a traceback through nested calls",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 birthdayBad.py",
+  "main": "birthdayBad.py",
+  "files": [
+    "birthdayBad.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,4 @@
+5
+['a', 'bb', 'c', 'z', 'zz']
+3
+['animal', 'city', 'food']

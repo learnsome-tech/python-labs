@@ -1,0 +1,17 @@
+{
+  "lab": "m14l04-11",
+  "lesson": "m14l04",
+  "title": "And is the mirror image, and short circuiting",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "and-is-the-mirror-image-and-short-circuiting.py",
+  "files": [
+    "and-is-the-mirror-image-and-short-circuiting.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

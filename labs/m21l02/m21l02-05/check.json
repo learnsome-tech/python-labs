@@ -1,0 +1,19 @@
+{
+  "lab": "m21l02-05",
+  "lesson": "m21l02",
+  "title": "Rows and columns: writing and reading CSV",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 csvRead.py",
+  "main": "csvRead.py",
+  "files": [
+    "csvRead.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

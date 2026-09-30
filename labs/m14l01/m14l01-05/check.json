@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-05",
+  "lesson": "m14l01",
+  "title": "testWhile2.py, the order matters",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 testWhile2.py",
+  "main": "testWhile2.py",
+  "files": [
+    "testWhile2.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

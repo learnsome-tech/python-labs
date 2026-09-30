@@ -1,0 +1,19 @@
+{
+  "lab": "m17l02-06",
+  "lesson": "m17l02",
+  "title": "raise from: this failure because of that one",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 chainfrom.py",
+  "main": "chainfrom.py",
+  "files": [
+    "chainfrom.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

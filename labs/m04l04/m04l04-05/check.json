@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-05",
+  "lesson": "m04l04",
+  "title": "Reversed, it is a syntax error",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-reversed-it-is-a-syntax-error.py",
+  "main": "shell-reversed-it-is-a-syntax-error.py",
+  "files": [
+    "shell-reversed-it-is-a-syntax-error.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

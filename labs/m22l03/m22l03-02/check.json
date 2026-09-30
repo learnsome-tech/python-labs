@@ -1,0 +1,19 @@
+{
+  "lab": "m22l03-02",
+  "lesson": "m22l03",
+  "title": "The parts of PEP eight that matter",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 styleDemo.py",
+  "main": "styleDemo.py",
+  "files": [
+    "styleDemo.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

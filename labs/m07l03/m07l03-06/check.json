@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-06",
+  "lesson": "m07l03",
+  "title": "A first for loop",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 firstloop.py",
+  "main": "firstloop.py",
+  "files": [
+    "firstloop.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

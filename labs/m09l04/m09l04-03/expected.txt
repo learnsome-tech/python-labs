@@ -1,0 +1,7 @@
+['Go:', 'Tear', 'some', 'strings', 'apart!']
+['Go', '  Tear some strings apart!']
+['Go:  Te', ' some strings ap', 't!']
+This includes
+some new
+lines.
+['This', 'includes', 'some', 'new', 'lines.']

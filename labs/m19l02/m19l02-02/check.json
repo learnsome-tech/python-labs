@@ -1,0 +1,19 @@
+{
+  "lab": "m19l02-02",
+  "lesson": "m19l02",
+  "title": "The loop and the comprehension, together",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 lengths.py",
+  "main": "lengths.py",
+  "files": [
+    "lengths.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

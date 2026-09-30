@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-04",
+  "lesson": "m08l03",
+  "title": "Operators and precedence",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-operators-and-precedence.py",
+  "main": "shell-operators-and-precedence.py",
+  "files": [
+    "shell-operators-and-precedence.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m17l02-03",
+  "lesson": "m17l02",
+  "title": "Choosing which built-in exception to raise",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "choosing-which-built-in-exception-to-raise.txt",
+  "files": [
+    "choosing-which-built-in-exception-to-raise.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

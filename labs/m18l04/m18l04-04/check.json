@@ -1,0 +1,19 @@
+{
+  "lab": "m18l04-04",
+  "lesson": "m18l04",
+  "title": "Where the files actually go",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 wherepackages.py",
+  "main": "wherepackages.py",
+  "files": [
+    "wherepackages.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

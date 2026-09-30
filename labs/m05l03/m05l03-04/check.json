@@ -1,0 +1,20 @@
+{
+  "lab": "m05l03-04",
+  "lesson": "m05l03",
+  "title": "Dropping the extra name",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hello_you3b.py",
+  "main": "hello_you3b.py",
+  "files": [
+    "hello_you3b.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

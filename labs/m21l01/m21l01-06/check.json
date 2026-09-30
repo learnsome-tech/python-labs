@@ -1,0 +1,19 @@
+{
+  "lab": "m21l01-06",
+  "lesson": "m21l01",
+  "title": "Text, bytes, and what an encoding is",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bytesAndText.py",
+  "main": "bytesAndText.py",
+  "files": [
+    "bytesAndText.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

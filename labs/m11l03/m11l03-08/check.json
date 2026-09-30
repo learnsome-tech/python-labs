@@ -1,0 +1,17 @@
+{
+  "lab": "m11l03-08",
+  "lesson": "m11l03",
+  "title": "A tutorial addition: promptClose, in two forms",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "a-tutorial-addition-promptclose-in-two-forms.py",
+  "files": [
+    "a-tutorial-addition-promptclose-in-two-forms.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

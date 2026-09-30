@@ -1,0 +1,19 @@
+{
+  "lab": "m12l01-02",
+  "lesson": "m12l01",
+  "title": "Three lines that create a file",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 firstFile.py",
+  "main": "firstFile.py",
+  "files": [
+    "firstFile.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

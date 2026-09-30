@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-12",
+  "lesson": "m07l04",
+  "title": "The same loop, wrapped in a function",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 numberEntries4.py",
+  "main": "numberEntries4.py",
+  "files": [
+    "numberEntries4.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

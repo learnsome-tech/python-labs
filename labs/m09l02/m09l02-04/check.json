@@ -1,0 +1,17 @@
+{
+  "lab": "m09l02-04",
+  "lesson": "m09l02",
+  "title": "Counting from the right end",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "counting-from-the-right-end.txt",
+  "files": [
+    "counting-from-the-right-end.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

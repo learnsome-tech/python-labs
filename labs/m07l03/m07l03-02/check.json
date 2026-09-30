@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-02",
+  "lesson": "m07l03",
+  "title": "Updating variables: updateVar.py",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 updateVar.py",
+  "main": "updateVar.py",
+  "files": [
+    "updateVar.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

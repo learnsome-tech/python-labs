@@ -1,0 +1,19 @@
+{
+  "lab": "m07l07-04",
+  "lesson": "m07l07",
+  "title": "Both versions side by side",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 endSpace0.py",
+  "main": "endSpace0.py",
+  "files": [
+    "endSpace0.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

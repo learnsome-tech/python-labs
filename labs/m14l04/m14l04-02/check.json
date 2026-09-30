@@ -1,0 +1,19 @@
+{
+  "lab": "m14l04-02",
+  "lesson": "m14l04",
+  "title": "Numbers and None, converted to Boolean",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-numbers-and-none-converted-to-boolean.py",
+  "main": "shell-numbers-and-none-converted-to-boolean.py",
+  "files": [
+    "shell-numbers-and-none-converted-to-boolean.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

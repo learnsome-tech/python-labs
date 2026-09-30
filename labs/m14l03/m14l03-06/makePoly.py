@@ -1,9 +1,0 @@
-# Hands-on Python: Complete Video Course & Book — lesson m14l03 — Graphical Applications With While
-# https://learnsome.tech/courses/python-course/watch?lesson=m14l03
-# © LearnSome.tech
-    rect1 = Rectangle(Point(5, 55), Point(200, 120))
-    poly1 = polyHere(rect1, win)
-    poly1.setFill('green')
-    rect2 = Rectangle(Point(210, 50), Point(350, 350))
-    poly2 = polyHere(rect2, win)
-    poly2.setOutline('orange')

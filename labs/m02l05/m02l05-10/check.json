@@ -1,0 +1,19 @@
+{
+  "lab": "m02l05-10",
+  "lesson": "m02l05",
+  "title": "Symptom five: no tkinter, so Idle will not start",
+  "mode": "run",
+  "runner": "python",
+  "command": "python3 tkcheck.py",
+  "main": "tkcheck.py",
+  "files": [
+    "tkcheck.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [
+    "python3"
+  ],
+  "note": "what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail."
+}

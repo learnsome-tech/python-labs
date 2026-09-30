@@ -1,0 +1,19 @@
+{
+  "lab": "m20l03-06",
+  "lesson": "m20l03",
+  "title": "Inheritance where it does not belong",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 carInherit.py",
+  "main": "carInherit.py",
+  "files": [
+    "carInherit.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

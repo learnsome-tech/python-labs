@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-07",
+  "lesson": "m04l01",
+  "title": "Negation",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-negation.py",
+  "main": "shell-negation.py",
+  "files": [
+    "shell-negation.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

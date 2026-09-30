@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-02",
+  "lesson": "m07l02",
+  "title": "Words in braces, and keyword parameters",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 numberFormat.py",
+  "main": "numberFormat.py",
+  "files": [
+    "numberFormat.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

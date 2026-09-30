@@ -1,0 +1,19 @@
+{
+  "lab": "m09l01-06",
+  "lesson": "m09l01",
+  "title": "The dot binds tighter than anything else",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-dot-binds-tighter-than-anything-else.py",
+  "main": "shell-the-dot-binds-tighter-than-anything-else.py",
+  "files": [
+    "shell-the-dot-binds-tighter-than-anything-else.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

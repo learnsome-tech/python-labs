@@ -1,0 +1,17 @@
+{
+  "lab": "m21l03-05",
+  "lesson": "m21l03",
+  "title": "The one sentence about time zones",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-one-sentence-about-time-zones.py",
+  "files": [
+    "the-one-sentence-about-time-zones.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m18l01-06",
+  "lesson": "m18l01",
+  "title": "The same file, imported instead of run",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-same-file-imported-instead-of-run.py",
+  "files": [
+    "the-same-file-imported-instead-of-run.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

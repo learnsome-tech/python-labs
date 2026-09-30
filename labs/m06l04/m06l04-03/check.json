@@ -1,0 +1,17 @@
+{
+  "lab": "m06l04-03",
+  "lesson": "m06l04",
+  "title": "How arguments reach parameter names",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "how-arguments-reach-parameter-names.py",
+  "files": [
+    "how-arguments-reach-parameter-names.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

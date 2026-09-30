@@ -1,0 +1,20 @@
+{
+  "lab": "m17l01-11",
+  "lesson": "m17l01",
+  "title": "Surviving bad input for as long as it takes",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 asknumber.py",
+  "main": "asknumber.py",
+  "files": [
+    "asknumber.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

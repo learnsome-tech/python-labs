@@ -1,0 +1,19 @@
+{
+  "lab": "m20l02-04",
+  "lesson": "m20l02",
+  "title": "Class attributes and instance attributes",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dogSpecies.py",
+  "main": "dogSpecies.py",
+  "files": [
+    "dogSpecies.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

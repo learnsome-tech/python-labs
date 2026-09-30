@@ -1,0 +1,17 @@
+{
+  "lab": "m18l02-08",
+  "lesson": "m18l02",
+  "title": "Running a module with dash m",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "running-a-module-with-dash-m.txt",
+  "files": [
+    "running-a-module-with-dash-m.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

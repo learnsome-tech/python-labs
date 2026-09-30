@@ -1,0 +1,17 @@
+{
+  "lab": "m18l04-06",
+  "lesson": "m18l04",
+  "title": "Removing, and installing your own project",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "removing-and-installing-your-own-project.txt",
+  "files": [
+    "removing-and-installing-your-own-project.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,20 @@
+{
+  "lab": "m14l02-02",
+  "lesson": "m14l02",
+  "title": "readLines0.py, ask for a count first",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 readLines0.py",
+  "main": "readLines0.py",
+  "files": [
+    "input.txt",
+    "readLines0.py"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

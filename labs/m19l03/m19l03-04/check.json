@@ -1,0 +1,19 @@
+{
+  "lab": "m19l03-04",
+  "lesson": "m19l03",
+  "title": "Sorting by a rule of your own",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-sorting-by-a-rule-of-your-own.py",
+  "main": "shell-sorting-by-a-rule-of-your-own.py",
+  "files": [
+    "shell-sorting-by-a-rule-of-your-own.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

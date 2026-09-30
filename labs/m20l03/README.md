@@ -1,25 +1,29 @@
-# Inheritance And Composition
+# m20l03 · Inheritance And Composition
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Object Oriented Python  
-**Lesson**: `m20l03`
+Module 20: Object Oriented Python · lesson 20.3 · Pro · [Open the lesson](https://learnsome.tech/learn/python-course/m20l03)
 
-## Links
+**Goal:** You can write a subclass that overrides a method and calls super, test types with isinstance, build the same design out of composition instead, and choose between the two on purpose.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m20l03)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-20-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m20l03-01](m20l03-01/) | Reuse, and then specialise | Read along |
+| [m20l03-02](m20l03-02/) | Subclassing, and overriding a method | Graded |
+| [m20l03-03](m20l03-03/) | super, in the initialiser and in a method | Graded |
+| [m20l03-04](m20l03-04/) | isinstance, issubclass and the search order | Graded |
+| [m20l03-05](m20l03-05/) | Composition: has-a, not is-a | Read along |
+| [m20l03-06](m20l03-06/) | Inheritance where it does not belong | Graded |
+| [m20l03-07](m20l03-07/) | The same car, composed instead | Graded |
 
-- [`m20l03-01/`](m20l03-01/)
-- [`m20l03-02/`](m20l03-02/)
-- [`m20l03-03/`](m20l03-03/)
-- [`m20l03-04/`](m20l03-04/)
-- [`m20l03-05/`](m20l03-05/)
-- [`m20l03-06/`](m20l03-06/)
-- [`m20l03-07/`](m20l03-07/)
+## Check yourself
+
+- How do you say that one class inherits from another, and what does it gain?
+- What does the super call do inside an overriding method?
+- Why is isinstance usually better than comparing type exactly?
+- Give the sentence test for choosing inheritance over composition.
+- Name two problems caused by making Car inherit from Engine.
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

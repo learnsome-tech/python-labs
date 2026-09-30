@@ -1,0 +1,17 @@
+{
+  "lab": "m19l03-03",
+  "lesson": "m19l03",
+  "title": "The key argument, and the lambda",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-key-argument-and-the-lambda.py",
+  "files": [
+    "the-key-argument-and-the-lambda.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

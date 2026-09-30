@@ -1,0 +1,17 @@
+{
+  "lab": "m03l01-04",
+  "lesson": "m03l01",
+  "title": "tellStory: the shape of the whole job",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "madlib.py",
+  "files": [
+    "madlib.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

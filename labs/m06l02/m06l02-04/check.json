@@ -1,0 +1,19 @@
+{
+  "lab": "m06l02-04",
+  "lesson": "m06l02",
+  "title": "Putting the calls inside a main function",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 birthday5.py",
+  "main": "birthday5.py",
+  "files": [
+    "birthday5.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

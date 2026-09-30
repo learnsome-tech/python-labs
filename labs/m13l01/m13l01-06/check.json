@@ -1,0 +1,20 @@
+{
+  "lab": "m13l01-06",
+  "lesson": "m13l01",
+  "title": "The same program with a heavier suitcase",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 suitcase.py",
+  "main": "suitcase.py",
+  "files": [
+    "input.txt",
+    "suitcase.py"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

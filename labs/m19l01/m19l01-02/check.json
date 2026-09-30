@@ -1,0 +1,19 @@
+{
+  "lab": "m19l01-02",
+  "lesson": "m19l01",
+  "title": "Making all four, and reaching in",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-making-all-four-and-reaching-in.py",
+  "main": "shell-making-all-four-and-reaching-in.py",
+  "files": [
+    "shell-making-all-four-and-reaching-in.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

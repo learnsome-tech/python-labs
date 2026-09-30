@@ -1,0 +1,4 @@
+[('Ada', 36), ('Alan', 41), ('Grace', 36)]
+[('Ada', 36), ('Grace', 36), ('Alan', 41)]
+['ada', 'alan', 'grace']
+[('ada', 36), ('grace', 36), ('alan', 41)]

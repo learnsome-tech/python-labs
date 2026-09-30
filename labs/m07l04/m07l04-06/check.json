@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-06",
+  "lesson": "m07l04",
+  "title": "Start with the part that is easy",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 items.py",
+  "main": "items.py",
+  "files": [
+    "items.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

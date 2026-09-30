@@ -1,0 +1,17 @@
+{
+  "lab": "m14l05-06",
+  "lesson": "m14l05",
+  "title": "String methods that read well as conditions",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "string-methods-that-read-well-as-conditions.txt",
+  "files": [
+    "string-methods-that-read-well-as-conditions.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

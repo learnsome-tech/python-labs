@@ -1,0 +1,17 @@
+{
+  "lab": "m11l02-05",
+  "lesson": "m11l02",
+  "title": "Prompt, wait for a click, close",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "face.py",
+  "files": [
+    "face.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

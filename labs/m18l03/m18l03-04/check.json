@@ -1,0 +1,17 @@
+{
+  "lab": "m18l03-04",
+  "lesson": "m18l03",
+  "title": "Activating it on Windows",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "activating-it-on-windows.txt",
+  "files": [
+    "activating-it-on-windows.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

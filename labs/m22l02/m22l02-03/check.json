@@ -1,0 +1,19 @@
+{
+  "lab": "m22l02-03",
+  "lesson": "m22l02",
+  "title": "The handful of types you actually need",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 typedTools.py",
+  "main": "typedTools.py",
+  "files": [
+    "typedTools.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

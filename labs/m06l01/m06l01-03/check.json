@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-03",
+  "lesson": "m06l01",
+  "title": "The whole song, written out",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 birthday1.py",
+  "main": "birthday1.py",
+  "files": [
+    "birthday1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

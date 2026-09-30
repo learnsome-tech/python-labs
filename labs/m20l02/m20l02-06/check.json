@@ -1,0 +1,19 @@
+{
+  "lab": "m20l02-06",
+  "lesson": "m20l02",
+  "title": "Docstrings on a class and on a method",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 dogDoc.py",
+  "main": "dogDoc.py",
+  "files": [
+    "dogDoc.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

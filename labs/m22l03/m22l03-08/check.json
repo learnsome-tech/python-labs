@@ -1,0 +1,19 @@
+{
+  "lab": "m22l03-08",
+  "lesson": "m22l03",
+  "title": "Docstrings: the note the code cannot give",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 postage.py",
+  "main": "postage.py",
+  "files": [
+    "postage.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

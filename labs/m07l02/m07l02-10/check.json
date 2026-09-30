@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-10",
+  "lesson": "m07l02",
+  "title": "F-strings: the same thing, shorter",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 arithfstring.py",
+  "main": "arithfstring.py",
+  "files": [
+    "arithfstring.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

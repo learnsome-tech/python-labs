@@ -1,0 +1,18 @@
+{
+  "lab": "m11l08-03",
+  "lesson": "m11l08",
+  "title": "randomCircles: a colour at random",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "randomCircles.py",
+  "files": [
+    "graphics.py",
+    "randomCircles.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

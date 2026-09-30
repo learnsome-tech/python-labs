@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-06",
+  "lesson": "m04l04",
+  "title": "Width is assigned width plus five",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-width-is-assigned-width-plus-five.py",
+  "main": "shell-width-is-assigned-width-plus-five.py",
+  "files": [
+    "shell-width-is-assigned-width-plus-five.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m19l04-01",
+  "lesson": "m19l04",
+  "title": "Iteration is an agreement, not a type",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "iteration-is-an-agreement-not-a-type.py",
+  "files": [
+    "iteration-is-an-agreement-not-a-type.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

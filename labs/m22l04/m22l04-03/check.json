@@ -1,0 +1,17 @@
+{
+  "lab": "m22l04-03",
+  "lesson": "m22l04",
+  "title": "The same thing on Windows",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-same-thing-on-windows.txt",
+  "files": [
+    "the-same-thing-on-windows.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

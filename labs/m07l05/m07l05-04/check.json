@@ -1,0 +1,17 @@
+{
+  "lab": "m07l05-04",
+  "lesson": "m07l05",
+  "title": "Two steps combined into one",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "two-steps-combined-into-one.py",
+  "files": [
+    "two-steps-combined-into-one.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

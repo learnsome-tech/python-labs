@@ -1,0 +1,17 @@
+{
+  "lab": "m10l02-04",
+  "lesson": "m10l02",
+  "title": "getKeys, now returning a set",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "madlib2.py",
+  "files": [
+    "madlib2.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

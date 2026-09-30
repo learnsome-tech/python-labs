@@ -1,0 +1,17 @@
+{
+  "lab": "m15l05-04",
+  "lesson": "m15l05",
+  "title": "Markup, tags and attributes",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "markup-tags-and-attributes.txt",
+  "files": [
+    "markup-tags-and-attributes.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

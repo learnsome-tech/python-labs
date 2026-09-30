@@ -1,0 +1,19 @@
+{
+  "lab": "m17l03-08",
+  "lesson": "m17l03",
+  "title": "The nine you will meet again and again",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-the-nine-you-will-meet-again-and-again.py",
+  "main": "shell-the-nine-you-will-meet-again-and-again.py",
+  "files": [
+    "shell-the-nine-you-will-meet-again-and-again.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

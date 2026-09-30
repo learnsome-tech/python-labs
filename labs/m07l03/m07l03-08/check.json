@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-08",
+  "lesson": "m07l03",
+  "title": "for123.py: dedenting ends the block",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 for123.py",
+  "main": "for123.py",
+  "files": [
+    "for123.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

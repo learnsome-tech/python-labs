@@ -1,0 +1,17 @@
+{
+  "lab": "m18l02-07",
+  "lesson": "m18l02",
+  "title": "Relative imports, and why absolute wins",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "relative-imports-and-why-absolute-wins.py",
+  "files": [
+    "relative-imports-and-why-absolute-wins.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

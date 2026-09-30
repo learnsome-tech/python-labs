@@ -1,0 +1,19 @@
+{
+  "lab": "m07l03-09",
+  "lesson": "m07l03",
+  "title": "for123a.py: one line indented, everything changes",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 for123a.py",
+  "main": "for123a.py",
+  "files": [
+    "for123a.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

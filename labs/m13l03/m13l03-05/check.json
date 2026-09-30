@@ -1,0 +1,20 @@
+{
+  "lab": "m13l03-05",
+  "lesson": "m13l03",
+  "title": "grade one dot py, run for real",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 grade1.py",
+  "main": "grade1.py",
+  "files": [
+    "grade1.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

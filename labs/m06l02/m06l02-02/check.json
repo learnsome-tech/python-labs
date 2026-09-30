@@ -1,0 +1,19 @@
+{
+  "lab": "m06l02-02",
+  "lesson": "m06l02",
+  "title": "Two people, two definitions",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 birthday4.py",
+  "main": "birthday4.py",
+  "files": [
+    "birthday4.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-02",
+  "lesson": "m07l04",
+  "title": "The simple repeat loop",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 repeat1.py",
+  "main": "repeat1.py",
+  "files": [
+    "repeat1.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

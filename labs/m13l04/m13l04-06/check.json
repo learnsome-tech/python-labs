@@ -1,0 +1,17 @@
+{
+  "lab": "m13l04-06",
+  "lesson": "m13l04",
+  "title": "Choosing a random starting point",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "bounce1.py",
+  "files": [
+    "bounce1.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

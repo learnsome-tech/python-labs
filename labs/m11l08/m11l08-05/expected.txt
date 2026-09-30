@@ -1,0 +1,6 @@
+range(0, 256)
+True
+range(3, 40)
+3
+39
+True

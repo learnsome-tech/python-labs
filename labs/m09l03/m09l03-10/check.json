@@ -1,0 +1,19 @@
+{
+  "lab": "m09l03-10",
+  "lesson": "m09l03",
+  "title": "Lists index and slice the same way",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-lists-index-and-slice-the-same-way.py",
+  "main": "shell-lists-index-and-slice-the-same-way.py",
+  "files": [
+    "shell-lists-index-and-slice-the-same-way.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

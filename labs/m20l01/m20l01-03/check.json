@@ -1,0 +1,17 @@
+{
+  "lab": "m20l01-03",
+  "lesson": "m20l01",
+  "title": "What actually happens when you call the class",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "what-actually-happens-when-you-call-the-clas.py",
+  "files": [
+    "what-actually-happens-when-you-call-the-clas.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

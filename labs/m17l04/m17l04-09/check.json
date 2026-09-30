@@ -1,0 +1,19 @@
+{
+  "lab": "m17l04-09",
+  "lesson": "m17l04",
+  "title": "The fix, and the decision inside it",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 runmaxfixed.py",
+  "main": "runmaxfixed.py",
+  "files": [
+    "runmaxfixed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

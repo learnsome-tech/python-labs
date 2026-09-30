@@ -1,0 +1,17 @@
+{
+  "lab": "m02l06-04",
+  "lesson": "m02l06",
+  "title": "Three ways to run the sample program",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "three-ways-to-run-the-sample-program.txt",
+  "files": [
+    "three-ways-to-run-the-sample-program.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

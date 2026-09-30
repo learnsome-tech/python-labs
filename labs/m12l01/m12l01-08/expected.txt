@@ -1,0 +1,5 @@
+23
+17
+'A revised output file!\nWrite some more.\n'
+A revised output file!
+Write some more.

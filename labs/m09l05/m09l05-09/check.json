@@ -1,0 +1,19 @@
+{
+  "lab": "m09l05-09",
+  "lesson": "m09l05",
+  "title": "A set can drive a for loop",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-a-set-can-drive-a-for-loop.py",
+  "main": "shell-a-set-can-drive-a-for-loop.py",
+  "files": [
+    "shell-a-set-can-drive-a-for-loop.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

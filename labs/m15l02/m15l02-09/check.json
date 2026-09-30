@@ -1,0 +1,17 @@
+{
+  "lab": "m15l02-09",
+  "lesson": "m15l02",
+  "title": "Input, then processing, then display",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "additionWeb.py",
+  "files": [
+    "additionWeb.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

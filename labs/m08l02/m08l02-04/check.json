@@ -1,0 +1,17 @@
+{
+  "lab": "m08l02-04",
+  "lesson": "m08l02",
+  "title": "Raw floats are not fit to show a human",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "raw-floats-are-not-fit-to-show-a-human.txt",
+  "files": [
+    "raw-floats-are-not-fit-to-show-a-human.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

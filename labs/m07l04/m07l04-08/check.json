@@ -1,0 +1,19 @@
+{
+  "lab": "m07l04-08",
+  "lesson": "m07l04",
+  "title": "Second attempt: a fixed value works once",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 numberEntries2.py",
+  "main": "numberEntries2.py",
+  "files": [
+    "numberEntries2.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

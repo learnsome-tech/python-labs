@@ -1,0 +1,17 @@
+{
+  "lab": "m11l02-11",
+  "lesson": "m11l02",
+  "title": "Reusing a Text object, and shapes from trigonometry",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "reusing-a-text-object-and-shapes-from-trigon.txt",
+  "files": [
+    "reusing-a-text-object-and-shapes-from-trigon.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

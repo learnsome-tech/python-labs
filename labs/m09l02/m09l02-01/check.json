@@ -1,0 +1,17 @@
+{
+  "lab": "m09l02-01",
+  "lesson": "m09l02",
+  "title": "Characters have numbers, starting at zero",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "characters-have-numbers-starting-at-zero.txt",
+  "files": [
+    "characters-have-numbers-starting-at-zero.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m21l04-04",
+  "lesson": "m21l04",
+  "title": "itertools: looping tools you did not write",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 itersDemo.py",
+  "main": "itersDemo.py",
+  "files": [
+    "itersDemo.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

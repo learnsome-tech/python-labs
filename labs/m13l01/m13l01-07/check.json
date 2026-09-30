@@ -1,0 +1,17 @@
+{
+  "lab": "m13l01-07",
+  "lesson": "m13l01",
+  "title": "The shape of a simple if statement",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-shape-of-a-simple-if-statement.txt",
+  "files": [
+    "the-shape-of-a-simple-if-statement.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

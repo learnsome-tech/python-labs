@@ -1,0 +1,19 @@
+{
+  "lab": "m18l03-06",
+  "lesson": "m18l03",
+  "title": "Asking Python where it is",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 whichpython.py",
+  "main": "whichpython.py",
+  "files": [
+    "whichpython.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

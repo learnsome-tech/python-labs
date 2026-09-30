@@ -1,0 +1,19 @@
+{
+  "lab": "m05l03-07",
+  "lesson": "m05l03",
+  "title": "A literal brace: double it",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 formatBraces.py",
+  "main": "formatBraces.py",
+  "files": [
+    "formatBraces.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

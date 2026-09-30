@@ -1,0 +1,19 @@
+{
+  "lab": "m09l05-02",
+  "lesson": "m09l05",
+  "title": "Building a list with append",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-building-a-list-with-append.py",
+  "main": "shell-building-a-list-with-append.py",
+  "files": [
+    "shell-building-a-list-with-append.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

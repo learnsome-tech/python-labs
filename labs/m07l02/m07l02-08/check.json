@@ -1,0 +1,19 @@
+{
+  "lab": "m07l02-08",
+  "lesson": "m07l02",
+  "title": "arithDict.py formats with locals",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 arithDict.py",
+  "main": "arithDict.py",
+  "files": [
+    "arithDict.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

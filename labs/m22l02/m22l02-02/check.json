@@ -1,0 +1,19 @@
+{
+  "lab": "m22l02-02",
+  "lesson": "m22l02",
+  "title": "Annotating parameters and the return",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 cart.py",
+  "main": "cart.py",
+  "files": [
+    "cart.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

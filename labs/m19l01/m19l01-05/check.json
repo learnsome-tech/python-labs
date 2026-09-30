@@ -1,0 +1,19 @@
+{
+  "lab": "m19l01-05",
+  "lesson": "m19l01",
+  "title": "What searching costs",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 lookupcost.py",
+  "main": "lookupcost.py",
+  "files": [
+    "lookupcost.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

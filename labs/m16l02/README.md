@@ -1,20 +1,24 @@
-# Windows And Mac Specifics
+# m16l02 · Windows And Mac Specifics
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Reading Errors, And Platform Notes  
-**Lesson**: `m16l02`
+Module 16: Reading Errors, And Platform Notes · lesson 16.2 · Pro · [Open the lesson](https://learnsome.tech/learn/python-course/m16l02)
 
-## Links
+**Goal:** You can install Python correctly on your own platform, open and save files ending in dot cgi from Idle, and get the local server and the graphics windows behaving on Windows or on a Mac.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m16l02)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-16-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m16l02-09](m16l02-09/) | Windows: optional terminal navigation | Read along |
+| [m16l02-15](m16l02-15/) | Mac: optional terminal navigation | Read along |
 
-- [`m16l02-09/`](m16l02-09/)
-- [`m16l02-15/`](m16l02-15/)
+## Check yourself
+
+- Which two check boxes matter when installing Python on Windows, and why?
+- How do you open a file whose name ends in dot cgi from inside Idle?
+- Why does it matter which folder Idle or the local server starts in?
+- On a Mac, what does a script that has not been marked executable look like from the browser?
+- Your graphics program seems not to have opened a window on a Mac. What has probably happened?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

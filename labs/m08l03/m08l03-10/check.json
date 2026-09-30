@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-10",
+  "lesson": "m08l03",
+  "title": "The four loop patterns",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 summaryLoops.py",
+  "main": "summaryLoops.py",
+  "files": [
+    "summaryLoops.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

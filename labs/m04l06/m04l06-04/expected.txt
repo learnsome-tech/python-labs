@@ -1,0 +1,4 @@
+Say,
+"I'm in!"
+This is line 3
+'Say,\n"I\'m in!"\nThis is line 3'

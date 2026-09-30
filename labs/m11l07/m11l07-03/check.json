@@ -1,0 +1,17 @@
+{
+  "lab": "m11l07-03",
+  "lesson": "m11l07",
+  "title": "The label, and reading what was typed",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "greet.py",
+  "files": [
+    "greet.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

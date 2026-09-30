@@ -1,0 +1,19 @@
+{
+  "lab": "m21l01-02",
+  "lesson": "m21l01",
+  "title": "The with statement closes the file for you",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 withFile.py",
+  "main": "withFile.py",
+  "files": [
+    "withFile.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

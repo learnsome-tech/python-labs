@@ -1,0 +1,20 @@
+{
+  "lab": "m13l01-05",
+  "lesson": "m13l01",
+  "title": "A simple if statement: suitcase dot py",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 suitcase.py",
+  "main": "suitcase.py",
+  "files": [
+    "input.txt",
+    "suitcase.py"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m07l07-07",
+  "lesson": "m07l07",
+  "title": "Finishing the line after the loop",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 endSpace2.py",
+  "main": "endSpace2.py",
+  "files": [
+    "endSpace2.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

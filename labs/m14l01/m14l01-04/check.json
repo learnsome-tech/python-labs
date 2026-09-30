@@ -1,0 +1,19 @@
+{
+  "lab": "m14l01-04",
+  "lesson": "m14l01",
+  "title": "Test yourself: testWhile.py",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 testWhile.py",
+  "main": "testWhile.py",
+  "files": [
+    "testWhile.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

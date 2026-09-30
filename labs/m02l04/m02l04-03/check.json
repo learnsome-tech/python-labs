@@ -1,0 +1,17 @@
+{
+  "lab": "m02l04-03",
+  "lesson": "m02l04",
+  "title": "python, python3 and py across three systems",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "python-python3-and-py-across-three-systems.txt",
+  "files": [
+    "python-python3-and-py-across-three-systems.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

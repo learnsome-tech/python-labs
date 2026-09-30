@@ -1,0 +1,19 @@
+{
+  "lab": "m08l03-08",
+  "lesson": "m08l03",
+  "title": "Defining and calling functions",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 summaryFunc.py",
+  "main": "summaryFunc.py",
+  "files": [
+    "summaryFunc.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

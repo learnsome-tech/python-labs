@@ -1,0 +1,19 @@
+{
+  "lab": "m04l06-02",
+  "lesson": "m04l06",
+  "title": "One argument, then several, then none",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-one-argument-then-several-then-none.py",
+  "main": "shell-one-argument-then-several-then-none.py",
+  "files": [
+    "shell-one-argument-then-several-then-none.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

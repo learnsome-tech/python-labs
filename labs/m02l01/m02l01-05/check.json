@@ -1,0 +1,17 @@
+{
+  "lab": "m02l01-05",
+  "lesson": "m02l01",
+  "title": "What the optional features mean",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "what-the-optional-features-mean.txt",
+  "files": [
+    "what-the-optional-features-mean.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

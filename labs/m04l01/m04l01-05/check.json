@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-05",
+  "lesson": "m04l01",
+  "title": "Precedence, and parentheses to override it",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-precedence-and-parentheses-to-override-it.py",
+  "main": "shell-precedence-and-parentheses-to-override-it.py",
+  "files": [
+    "shell-precedence-and-parentheses-to-override-it.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

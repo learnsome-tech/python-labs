@@ -1,0 +1,17 @@
+{
+  "lab": "m10l01-09",
+  "lesson": "m10l01",
+  "title": "The test story and the call",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "testGetKeys.py",
+  "files": [
+    "testGetKeys.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

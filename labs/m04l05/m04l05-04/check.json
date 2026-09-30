@@ -1,0 +1,17 @@
+{
+  "lab": "m04l05-04",
+  "lesson": "m04l05",
+  "title": "The reserved words, for the curious",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-reserved-words-for-the-curious.txt",
+  "files": [
+    "the-reserved-words-for-the-curious.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

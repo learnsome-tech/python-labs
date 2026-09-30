@@ -1,0 +1,17 @@
+{
+  "lab": "m12l02-08",
+  "lesson": "m12l02",
+  "title": "Graphics objects",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "graphics-objects.py",
+  "files": [
+    "graphics-objects.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

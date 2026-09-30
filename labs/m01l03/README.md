@@ -1,22 +1,26 @@
-# What Python Is, And Where It Came From
+# m01l03 · What Python Is, And Where It Came From
 
-**Course**: [Hands-on Python: Complete Video Course & Book](https://learnsome.tech/courses/python-course)  
-**Module**: Before You Write Code  
-**Lesson**: `m01l03`
+Module 1: Before You Write Code · lesson 1.3 · Free · [Open the lesson](https://learnsome.tech/learn/python-course/m01l03)
 
-## Links
+**Goal:** You can describe what kind of language Python is, place its origin and the two versus three split in time, read a Python version number, and ask your own interpreter which version, platform and implementation you are running.
 
-- [Watch lesson](https://learnsome.tech/courses/python-course/watch?lesson=m01l03)
-- [Handbook](https://learnsome.tech/courses/python-course/book#lesson-1-3)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m01l03-02](m01l03-02/) | Dynamic typing, in one small picture | Read along |
+| [m01l03-06](m01l03-06/) | Reading a version number | Read along |
+| [m01l03-07](m01l03-07/) | Ask your own interpreter what it is | Runs, not graded |
+| [m01l03-08](m01l03-08/) | The usual Python is written in C | Read along |
 
-- [`m01l03-02/`](m01l03-02/)
-- [`m01l03-06/`](m01l03-06/)
-- [`m01l03-07/`](m01l03-07/)
-- [`m01l03-08/`](m01l03-08/)
+## Check yourself
+
+- What does it mean to say that Python is dynamically typed?
+- Who started Python, roughly when, and where did the name come from?
+- Why is there no reason to learn Python two today?
+- In a version like three point fourteen point seven, what does each of the three numbers mean?
+- Name one job Python suits well and one it suits badly, and say why.
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Hands-on Python: Complete Video Course & Book on LearnSome.tech](https://learnsome.tech/courses/python-course)

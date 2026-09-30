@@ -1,0 +1,17 @@
+{
+  "lab": "m07l07-02",
+  "lesson": "m07l07",
+  "title": "Two calls, two lines",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "two-calls-two-lines.py",
+  "files": [
+    "two-calls-two-lines.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

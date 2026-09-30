@@ -1,0 +1,17 @@
+{
+  "lab": "m08l01-05",
+  "lesson": "m08l01",
+  "title": "Where the name float comes from",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "where-the-name-float-comes-from.txt",
+  "files": [
+    "where-the-name-float-comes-from.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

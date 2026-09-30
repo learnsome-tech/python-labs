@@ -1,0 +1,19 @@
+{
+  "lab": "m13l02-05",
+  "lesson": "m13l02",
+  "title": "Testing equality changes nothing",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-testing-equality-changes-nothing.py",
+  "main": "shell-testing-equality-changes-nothing.py",
+  "files": [
+    "shell-testing-equality-changes-nothing.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

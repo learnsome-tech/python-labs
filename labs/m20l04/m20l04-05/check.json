@@ -1,0 +1,19 @@
+{
+  "lab": "m20l04-05",
+  "lesson": "m20l04",
+  "title": "__eq__, and what defining it costs you",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 pointEq.py",
+  "main": "pointEq.py",
+  "files": [
+    "pointEq.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,7 @@
+<class '__main__.Dog'>
+<class 'type'>
+<class '__main__.Dog'>
+True
+'Fido'
+Traceback (most recent call last):
+AttributeError: type object 'Dog' has no attribute 'n'

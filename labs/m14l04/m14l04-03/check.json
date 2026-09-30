@@ -1,0 +1,19 @@
+{
+  "lab": "m14l04-03",
+  "lesson": "m14l04",
+  "title": "Strings and lists, converted to Boolean",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-strings-and-lists-converted-to-boolean.py",
+  "main": "shell-strings-and-lists-converted-to-boolean.py",
+  "files": [
+    "shell-strings-and-lists-converted-to-boolean.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

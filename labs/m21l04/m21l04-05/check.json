@@ -1,0 +1,19 @@
+{
+  "lab": "m21l04-05",
+  "lesson": "m21l04",
+  "title": "os, sys, subprocess and argparse: talking outwards",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 toolBox.py",
+  "main": "toolBox.py",
+  "files": [
+    "toolBox.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

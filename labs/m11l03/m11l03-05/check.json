@@ -1,0 +1,17 @@
+{
+  "lab": "m11l03-05",
+  "lesson": "m11l03",
+  "title": "The methods that belong to just one type",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-methods-that-belong-to-just-one-type.txt",
+  "files": [
+    "the-methods-that-belong-to-just-one-type.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

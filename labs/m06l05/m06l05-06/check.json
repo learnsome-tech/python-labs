@@ -1,0 +1,17 @@
+{
+  "lab": "m06l05-06",
+  "lesson": "m06l05",
+  "title": "The None you did not expect",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-none-you-did-not-expect.py",
+  "files": [
+    "the-none-you-did-not-expect.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

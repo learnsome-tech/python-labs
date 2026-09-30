@@ -1,0 +1,20 @@
+{
+  "lab": "m12l01-05",
+  "lesson": "m12l01",
+  "title": "write adds nothing you did not ask for",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-write-adds-nothing-you-did-not-ask-for.py",
+  "main": "shell-write-adds-nothing-you-did-not-ask-for.py",
+  "files": [
+    "sample2.txt",
+    "shell-write-adds-nothing-you-did-not-ask-for.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

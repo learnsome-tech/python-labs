@@ -1,0 +1,17 @@
+{
+  "lab": "m09l05-06",
+  "lesson": "m09l05",
+  "title": "Playing computer through multiplyAll",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "playing-computer-through-multiplyall.txt",
+  "files": [
+    "playing-computer-through-multiplyall.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

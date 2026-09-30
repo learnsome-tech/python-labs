@@ -1,0 +1,19 @@
+{
+  "lab": "m05l01-09",
+  "lesson": "m05l01",
+  "title": "The program documentation string",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 hello2.py",
+  "main": "hello2.py",
+  "files": [
+    "hello2.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

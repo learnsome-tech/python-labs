@@ -1,0 +1,17 @@
+{
+  "lab": "m12l02-09",
+  "lesson": "m12l02",
+  "title": "Files",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "files.py",
+  "files": [
+    "files.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

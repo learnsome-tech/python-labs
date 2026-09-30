@@ -1,0 +1,19 @@
+{
+  "lab": "m20l02-03",
+  "lesson": "m20l02",
+  "title": "self is filled in, not conjured",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-self-is-filled-in-not-conjured.py",
+  "main": "shell-self-is-filled-in-not-conjured.py",
+  "files": [
+    "shell-self-is-filled-in-not-conjured.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

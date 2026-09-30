@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-03",
+  "lesson": "m08l02",
+  "title": "Fractional exponents give roots",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-fractional-exponents-give-roots.py",
+  "main": "shell-fractional-exponents-give-roots.py",
+  "files": [
+    "shell-fractional-exponents-give-roots.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

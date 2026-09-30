@@ -1,0 +1,19 @@
+{
+  "lab": "m17l02-07",
+  "lesson": "m17l02",
+  "title": "Your own exception class, in two lines",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 toocold.py",
+  "main": "toocold.py",
+  "files": [
+    "toocold.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

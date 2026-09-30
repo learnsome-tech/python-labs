@@ -1,0 +1,19 @@
+{
+  "lab": "m09l03-07",
+  "lesson": "m09l03",
+  "title": "Finding inside Mississippi",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-finding-inside-mississippi.py",
+  "main": "shell-finding-inside-mississippi.py",
+  "files": [
+    "shell-finding-inside-mississippi.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

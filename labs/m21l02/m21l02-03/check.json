@@ -1,0 +1,19 @@
+{
+  "lab": "m21l02-03",
+  "lesson": "m21l02",
+  "title": "What survives the trip, and what does not",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 jsonTypes.py",
+  "main": "jsonTypes.py",
+  "files": [
+    "jsonTypes.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m13l04-08",
+  "lesson": "m13l04",
+  "title": "and then hands over to the animation",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "bounce1.py",
+  "files": [
+    "bounce1.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

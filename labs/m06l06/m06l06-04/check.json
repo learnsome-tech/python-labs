@@ -1,0 +1,19 @@
+{
+  "lab": "m06l06-04",
+  "lesson": "m06l06",
+  "title": "Passing the value on purpose",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 goodScope.py",
+  "main": "goodScope.py",
+  "files": [
+    "goodScope.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

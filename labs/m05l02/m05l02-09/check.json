@@ -1,0 +1,20 @@
+{
+  "lab": "m05l02-09",
+  "lesson": "m05l02",
+  "title": "Converting the input explicitly",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 addition2.py",
+  "main": "addition2.py",
+  "files": [
+    "addition2.py",
+    "input.txt"
+  ],
+  "stdin": "input.txt",
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

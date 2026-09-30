@@ -1,0 +1,17 @@
+{
+  "lab": "m11l02-10",
+  "lesson": "m11l02",
+  "title": "A Polygon, and changing text that is already drawn",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "triangle.py",
+  "files": [
+    "triangle.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

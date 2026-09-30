@@ -1,0 +1,6 @@
+True
+True
+False
+False
+True
+['Dog', 'Animal', 'object']

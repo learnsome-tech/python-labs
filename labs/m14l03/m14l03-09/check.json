@@ -1,0 +1,17 @@
+{
+  "lab": "m14l03-09",
+  "lesson": "m14l03",
+  "title": "Getting a direction from a mouse click",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "bounce2.py",
+  "files": [
+    "bounce2.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

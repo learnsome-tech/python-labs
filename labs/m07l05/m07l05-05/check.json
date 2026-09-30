@@ -1,0 +1,19 @@
+{
+  "lab": "m07l05-05",
+  "lesson": "m07l05",
+  "title": "The whole function, and a test call",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 sumNums.py",
+  "main": "sumNums.py",
+  "files": [
+    "sumNums.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

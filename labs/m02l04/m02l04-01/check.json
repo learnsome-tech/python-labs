@@ -1,0 +1,17 @@
+{
+  "lab": "m02l04-01",
+  "lesson": "m02l04",
+  "title": "How a command name becomes a program",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "how-a-command-name-becomes-a-program.py",
+  "files": [
+    "how-a-command-name-becomes-a-program.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m19l03-06",
+  "lesson": "m19l03",
+  "title": "Stability: sorting twice on purpose",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 stability.py",
+  "main": "stability.py",
+  "files": [
+    "stability.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

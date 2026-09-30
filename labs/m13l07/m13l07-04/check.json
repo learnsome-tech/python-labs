@@ -1,0 +1,17 @@
+{
+  "lab": "m13l07-04",
+  "lesson": "m13l07",
+  "title": "The most egregious repetition",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "chooseButton1.py",
+  "files": [
+    "chooseButton1.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

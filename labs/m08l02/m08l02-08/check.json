@@ -1,0 +1,19 @@
+{
+  "lab": "m08l02-08",
+  "lesson": "m08l02",
+  "title": "floatFormat.py, the first half",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 floatFormat.py",
+  "main": "floatFormat.py",
+  "files": [
+    "floatFormat.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

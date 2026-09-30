@@ -1,0 +1,17 @@
+{
+  "lab": "m11l04-07",
+  "lesson": "m11l04",
+  "title": "Cloning gives you a separate object",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "cloning-gives-you-a-separate-object.py",
+  "files": [
+    "cloning-gives-you-a-separate-object.py"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

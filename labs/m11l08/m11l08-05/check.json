@@ -1,0 +1,19 @@
+{
+  "lab": "m11l08-05",
+  "lesson": "m11l08",
+  "title": "range, and choosing from a range",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-range-and-choosing-from-a-range.py",
+  "main": "shell-range-and-choosing-from-a-range.py",
+  "files": [
+    "shell-range-and-choosing-from-a-range.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

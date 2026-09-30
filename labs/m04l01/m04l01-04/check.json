@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-04",
+  "lesson": "m04l01",
+  "title": "Python does not use x for multiplication",
+  "mode": "graded",
+  "runner": "python-repl",
+  "command": "python3 -i < shell-python-does-not-use-x-for-multiplication.py",
+  "main": "shell-python-does-not-use-x-for-multiplication.py",
+  "files": [
+    "shell-python-does-not-use-x-for-multiplication.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "repl",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}
