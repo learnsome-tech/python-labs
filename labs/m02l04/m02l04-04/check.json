@@ -11,7 +11,7 @@
   ],
   "stdin": null,
   "expected": "expected.txt",
-  "grading": "repl",
+  "grading": "shape",
   "requires": [
     "python3"
   ],

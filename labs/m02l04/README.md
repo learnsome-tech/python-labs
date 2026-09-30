@@ -15,7 +15,7 @@ Module 2: Install Python Properly · lesson 2.4 · Pro · [Open the lesson](http
 | [m02l04-05](m02l04-05/) | The module search path, and one nasty bug | Read along |
 | [m02l04-06](m02l04-06/) | More than one Python, on purpose | Read along |
 | [m02l04-07](m02l04-07/) | System Python, and why you leave it alone | Read along |
-| [m02l04-08](m02l04-08/) | One file that answers which Python am I | Runs, not graded |
+| [m02l04-08](m02l04-08/) | One file that answers which Python am I | Graded |
 
 ## Check yourself
 

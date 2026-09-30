@@ -16,7 +16,7 @@ Module 2: Install Python Properly · lesson 2.2 · Pro · [Open the lesson](http
 | [m02l02-07](m02l02-07/) | Where Homebrew puts it, and why it moved | Read along |
 | [m02l02-08](m02l02-08/) | The profile line, and which file it goes in | Read along |
 | [m02l02-09](m02l02-09/) | Idle on a Mac, and the Tk question | Read along |
-| [m02l02-10](m02l02-10/) | Ask Python itself, not the internet | Runs, not graded |
+| [m02l02-10](m02l02-10/) | Ask Python itself, not the internet | Graded |
 | [m02l02-11](m02l02-11/) | The same checks, typed into the shell | Runs, not graded |
 
 ## Check yourself

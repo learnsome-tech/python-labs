@@ -1,7 +1,7 @@
 # m02l02-10 · Ask Python itself, not the internet
 
 **Lesson:** [Installing Python On A Mac](https://learnsome.tech/learn/python-course/m02l02) (lesson 2.2, module 2: Install Python Properly) · Pro  
-**Check:** Runs, not graded
+**Check:** Graded
 
 ## Goal
 
@@ -12,6 +12,7 @@ In the lesson: When something goes wrong later, this tiny program is the first t
 ## Files
 
 - [`starter/pyfacts.py`](starter/pyfacts.py): the listing from the lesson
+- [`expected.txt`](expected.txt): the output the check compares with
 - [`check.json`](check.json): how `./check` runs and checks this lab
 
 ## Steps
@@ -28,9 +29,7 @@ In the lesson: When something goes wrong later, this tiny program is the first t
 4. Run it: `python3 pyfacts.py`.
 5. Check it from the repository root: `./check m02l02-10`.
 
-## What the lesson recorded
-
-Shown for reference; the check does not compare it.
+## Expected output
 
 ```text
 (3, 14, 7)
@@ -42,7 +41,7 @@ Shown for reference; the check does not compare it.
 
 `./check m02l02-10` copies `starter/` into a scratch directory and runs `python3 pyfacts.py` there, the way the site's lab sandbox does: that directory is the working directory and `HOME`, `LANG=C.UTF-8`, `TZ=UTC`, a limit of 10 seconds and 256 KiB of output per stream.
 
-It runs without a pass or fail: what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail. `./check` shows the output and the exit code.
+It passes when the output matches `expected.txt` by the site's rules, within the limits. undefined A pass here is a pass on the site.
 
 ---
 

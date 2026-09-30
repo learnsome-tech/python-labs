@@ -46,7 +46,7 @@ In the lesson: The reliable way to find out what you are running is to ask it. I
 
 `./check m02l04-04` copies `starter/` into a scratch directory and runs `python3 -i < shell-asking-the-interpreter-about-itself.py` there, the way the site's lab sandbox does: that directory is the working directory and `HOME`, `LANG=C.UTF-8`, `TZ=UTC`, a limit of 10 seconds and 256 KiB of output per stream.
 
-It passes when the output matches `expected.txt` by the site's rules, within the limits. The session is typed into Python's interactive prompt line by line, as in the lesson, and what Python answers is compared with the answers recorded in the session (its `#   ` comment lines, collected into `expected.txt`): line by line, spaces at the end of a line and blank lines at the end do not count, and errors are compared with their traceback frames set aside. A pass here is a pass on the site.
+It passes when the output matches `expected.txt` by the site's rules, within the limits. undefined A pass here is a pass on the site.
 
 ---
 

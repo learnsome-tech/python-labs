@@ -2,7 +2,7 @@
   "lab": "m02l02-10",
   "lesson": "m02l02",
   "title": "Ask Python itself, not the internet",
-  "mode": "run",
+  "mode": "graded",
   "runner": "python",
   "command": "python3 pyfacts.py",
   "main": "pyfacts.py",
@@ -10,10 +10,10 @@
     "pyfacts.py"
   ],
   "stdin": null,
-  "expected": null,
-  "grading": null,
+  "expected": "expected.txt",
+  "grading": "shape",
   "requires": [
     "python3"
   ],
-  "note": "what the listing prints in the lab sandbox differs from the output recorded for the lesson (it depends on the machine, the clock or the network), so the site runs it without a pass or fail."
+  "note": null
 }
